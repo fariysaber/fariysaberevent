@@ -1,0 +1,152 @@
+fileFormatVersion: 2
+guid: e749ee2c9092ad743ae30cf734edf297
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: BARGHEST_
+    100004: BARGHEST_ Head
+    100006: BARGHEST_ L Calf
+    100008: BARGHEST_ L Clavicle
+    100010: BARGHEST_ L Finger0
+    100012: BARGHEST_ L Finger01
+    100014: BARGHEST_ L Foot
+    100016: BARGHEST_ L Forearm
+    100018: BARGHEST_ L Hand
+    100020: BARGHEST_ L HorseLink
+    100022: BARGHEST_ L Thigh
+    100024: BARGHEST_ L Toe0
+    100026: BARGHEST_ L UpperArm
+    100028: BARGHEST_ Neck
+    100030: BARGHEST_ Neck1
+    100032: BARGHEST_ Pelvis
+    100034: BARGHEST_ Queue de cheval 1
+    100036: BARGHEST_ R Calf
+    100038: BARGHEST_ R Clavicle
+    100040: BARGHEST_ R Finger0
+    100042: BARGHEST_ R Finger01
+    100044: BARGHEST_ R Foot
+    100046: BARGHEST_ R Forearm
+    100048: BARGHEST_ R Hand
+    100050: BARGHEST_ R HorseLink
+    100052: BARGHEST_ R Thigh
+    100054: BARGHEST_ R Toe0
+    100056: BARGHEST_ R UpperArm
+    100058: BARGHEST_ Spine
+    100060: BARGHEST_ Spine1
+    100062: BARGHEST_ Spine2
+    100064: BARGHEST_ Spine3
+    100066: BARGHEST_ Tail
+    100068: BARGHEST_ Tail1
+    100070: BARGHEST_ Tail2
+    100072: BARGHEST_ Tail3
+    100074: BARGHEST_ Tail4
+    400000: //RootNode
+    400002: BARGHEST_
+    400004: BARGHEST_ Head
+    400006: BARGHEST_ L Calf
+    400008: BARGHEST_ L Clavicle
+    400010: BARGHEST_ L Finger0
+    400012: BARGHEST_ L Finger01
+    400014: BARGHEST_ L Foot
+    400016: BARGHEST_ L Forearm
+    400018: BARGHEST_ L Hand
+    400020: BARGHEST_ L HorseLink
+    400022: BARGHEST_ L Thigh
+    400024: BARGHEST_ L Toe0
+    400026: BARGHEST_ L UpperArm
+    400028: BARGHEST_ Neck
+    400030: BARGHEST_ Neck1
+    400032: BARGHEST_ Pelvis
+    400034: BARGHEST_ Queue de cheval 1
+    400036: BARGHEST_ R Calf
+    400038: BARGHEST_ R Clavicle
+    400040: BARGHEST_ R Finger0
+    400042: BARGHEST_ R Finger01
+    400044: BARGHEST_ R Foot
+    400046: BARGHEST_ R Forearm
+    400048: BARGHEST_ R Hand
+    400050: BARGHEST_ R HorseLink
+    400052: BARGHEST_ R Thigh
+    400054: BARGHEST_ R Toe0
+    400056: BARGHEST_ R UpperArm
+    400058: BARGHEST_ Spine
+    400060: BARGHEST_ Spine1
+    400062: BARGHEST_ Spine2
+    400064: BARGHEST_ Spine3
+    400066: BARGHEST_ Tail
+    400068: BARGHEST_ Tail1
+    400070: BARGHEST_ Tail2
+    400072: BARGHEST_ Tail3
+    400074: BARGHEST_ Tail4
+    7400000: Take 001
+    9500000: //RootNode
+    11100000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 0
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 2
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 0.01
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 1
+  humanoidOversampling: 1
+  additionalBone: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,29 @@
+ManifestFileVersion: 0
+CRC: 2353014312
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: ce64c4c74845514aaac0e45e05d57240
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 6c8e920e6471d8edeb7f0855116811d4
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 708705254, guid: f70555f144d8491a825f0804e09c671c, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 2b9c41da24fe7574f9b1117aca0176db, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+- Class: 128
+  Script: {instanceID: 0}
+- Class: 222
+  Script: {instanceID: 0}
+- Class: 224
+  Script: {instanceID: 0}
+Assets:
+- Assets/Abres/Zero/UI/Modules/text2.prefab
+Dependencies:
+- "E:/\u5DE5\u4F5C\u5B66\u4E60/unityproject/New Unity Project/Assets/StreamingAssets/abres/zero/font/simhei.ab"

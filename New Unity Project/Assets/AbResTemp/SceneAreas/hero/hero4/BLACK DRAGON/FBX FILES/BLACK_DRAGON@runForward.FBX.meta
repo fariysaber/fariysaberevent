@@ -1,0 +1,294 @@
+fileFormatVersion: 2
+guid: a7ac0589febe965428c1d9da47f8e94b
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: BLACK_DRAGON_
+    100004: BLACK_DRAGON_ Head
+    100006: BLACK_DRAGON_ L Calf
+    100008: BLACK_DRAGON_ L Clavicle
+    100010: BLACK_DRAGON_ L Finger0
+    100012: BLACK_DRAGON_ L Finger01
+    100014: BLACK_DRAGON_ L Finger02
+    100016: BLACK_DRAGON_ L Finger1
+    100018: BLACK_DRAGON_ L Finger11
+    100020: BLACK_DRAGON_ L Finger12
+    100022: BLACK_DRAGON_ L Finger2
+    100024: BLACK_DRAGON_ L Finger21
+    100026: BLACK_DRAGON_ L Finger22
+    100028: BLACK_DRAGON_ L Foot
+    100030: BLACK_DRAGON_ L Forearm
+    100032: BLACK_DRAGON_ L Hand
+    100034: BLACK_DRAGON_ L HorseLink
+    100036: BLACK_DRAGON_ L Thigh
+    100038: BLACK_DRAGON_ L Toe0
+    100040: BLACK_DRAGON_ L Toe01
+    100042: BLACK_DRAGON_ L Toe02
+    100044: BLACK_DRAGON_ L Toe1
+    100046: BLACK_DRAGON_ L Toe11
+    100048: BLACK_DRAGON_ L Toe12
+    100050: BLACK_DRAGON_ L Toe2
+    100052: BLACK_DRAGON_ L Toe21
+    100054: BLACK_DRAGON_ L Toe22
+    100056: BLACK_DRAGON_ L UpperArm
+    100058: BLACK_DRAGON_ Neck
+    100060: BLACK_DRAGON_ Neck1
+    100062: BLACK_DRAGON_ Neck2
+    100064: BLACK_DRAGON_ Neck3
+    100066: BLACK_DRAGON_ Neck4
+    100068: BLACK_DRAGON_ Neck5
+    100070: BLACK_DRAGON_ Pelvis
+    100072: BLACK_DRAGON_ Queue de cheval 1
+    100074: BLACK_DRAGON_ R Calf
+    100076: BLACK_DRAGON_ R Clavicle
+    100078: BLACK_DRAGON_ R Finger0
+    100080: BLACK_DRAGON_ R Finger01
+    100082: BLACK_DRAGON_ R Finger02
+    100084: BLACK_DRAGON_ R Finger1
+    100086: BLACK_DRAGON_ R Finger11
+    100088: BLACK_DRAGON_ R Finger12
+    100090: BLACK_DRAGON_ R Finger2
+    100092: BLACK_DRAGON_ R Finger21
+    100094: BLACK_DRAGON_ R Finger22
+    100096: BLACK_DRAGON_ R Foot
+    100098: BLACK_DRAGON_ R Forearm
+    100100: BLACK_DRAGON_ R Hand
+    100102: BLACK_DRAGON_ R HorseLink
+    100104: BLACK_DRAGON_ R Thigh
+    100106: BLACK_DRAGON_ R Toe0
+    100108: BLACK_DRAGON_ R Toe01
+    100110: BLACK_DRAGON_ R Toe02
+    100112: BLACK_DRAGON_ R Toe1
+    100114: BLACK_DRAGON_ R Toe11
+    100116: BLACK_DRAGON_ R Toe12
+    100118: BLACK_DRAGON_ R Toe2
+    100120: BLACK_DRAGON_ R Toe21
+    100122: BLACK_DRAGON_ R Toe22
+    100124: BLACK_DRAGON_ R UpperArm
+    100126: BLACK_DRAGON_ Spine
+    100128: BLACK_DRAGON_ Spine1
+    100130: BLACK_DRAGON_ Spine2
+    100132: BLACK_DRAGON_ Spine3
+    100134: BLACK_DRAGON_ Spine4
+    100136: BLACK_DRAGON_ Spine5
+    100138: BLACK_DRAGON_ Spine6
+    100140: BLACK_DRAGON_ Tail
+    100142: BLACK_DRAGON_ Tail1
+    100144: BLACK_DRAGON_ Tail10
+    100146: BLACK_DRAGON_ Tail11
+    100148: BLACK_DRAGON_ Tail12
+    100150: BLACK_DRAGON_ Tail13
+    100152: BLACK_DRAGON_ Tail14
+    100154: BLACK_DRAGON_ Tail15
+    100156: BLACK_DRAGON_ Tail16
+    100158: BLACK_DRAGON_ Tail17
+    100160: BLACK_DRAGON_ Tail18
+    100162: BLACK_DRAGON_ Tail19
+    100164: BLACK_DRAGON_ Tail2
+    100166: BLACK_DRAGON_ Tail20
+    100168: BLACK_DRAGON_ Tail21
+    100170: BLACK_DRAGON_ Tail3
+    100172: BLACK_DRAGON_ Tail4
+    100174: BLACK_DRAGON_ Tail5
+    100176: BLACK_DRAGON_ Tail6
+    100178: BLACK_DRAGON_ Tail7
+    100180: BLACK_DRAGON_ Tail8
+    100182: BLACK_DRAGON_ Tail9
+    100184: BLACK_DRAGON_ TailNub
+    100186: BLACK_DRAGON_WHISKERS_R_01
+    100188: BLACK_DRAGON_WHISKERS_R_01(mis en miroir)
+    100190: BLACK_DRAGON_WHISKERS_R_02
+    100192: BLACK_DRAGON_WHISKERS_R_02(mis en miroir)
+    100194: BLACK_DRAGON_WHISKERS_R_03
+    100196: BLACK_DRAGON_WHISKERS_R_03(mis en miroir)
+    100198: BLACK_DRAGON_WHISKERS_R_04
+    100200: BLACK_DRAGON_WHISKERS_R_04(mis en miroir)
+    100202: BLACK_DRAGON_WHISKERS_R_05
+    100204: BLACK_DRAGON_WHISKERS_R_05(mis en miroir)
+    100206: BLACK_DRAGON_WHISKERS_R_06
+    100208: BLACK_DRAGON_WHISKERS_R_06(mis en miroir)
+    100210: BLACK_DRAGON_WHISKERS_R_07
+    100212: BLACK_DRAGON_WHISKERS_R_07(mis en miroir)
+    100214: Factice002
+    100216: Factice003
+    400000: //RootNode
+    400002: BLACK_DRAGON_
+    400004: BLACK_DRAGON_ Head
+    400006: BLACK_DRAGON_ L Calf
+    400008: BLACK_DRAGON_ L Clavicle
+    400010: BLACK_DRAGON_ L Finger0
+    400012: BLACK_DRAGON_ L Finger01
+    400014: BLACK_DRAGON_ L Finger02
+    400016: BLACK_DRAGON_ L Finger1
+    400018: BLACK_DRAGON_ L Finger11
+    400020: BLACK_DRAGON_ L Finger12
+    400022: BLACK_DRAGON_ L Finger2
+    400024: BLACK_DRAGON_ L Finger21
+    400026: BLACK_DRAGON_ L Finger22
+    400028: BLACK_DRAGON_ L Foot
+    400030: BLACK_DRAGON_ L Forearm
+    400032: BLACK_DRAGON_ L Hand
+    400034: BLACK_DRAGON_ L HorseLink
+    400036: BLACK_DRAGON_ L Thigh
+    400038: BLACK_DRAGON_ L Toe0
+    400040: BLACK_DRAGON_ L Toe01
+    400042: BLACK_DRAGON_ L Toe02
+    400044: BLACK_DRAGON_ L Toe1
+    400046: BLACK_DRAGON_ L Toe11
+    400048: BLACK_DRAGON_ L Toe12
+    400050: BLACK_DRAGON_ L Toe2
+    400052: BLACK_DRAGON_ L Toe21
+    400054: BLACK_DRAGON_ L Toe22
+    400056: BLACK_DRAGON_ L UpperArm
+    400058: BLACK_DRAGON_ Neck
+    400060: BLACK_DRAGON_ Neck1
+    400062: BLACK_DRAGON_ Neck2
+    400064: BLACK_DRAGON_ Neck3
+    400066: BLACK_DRAGON_ Neck4
+    400068: BLACK_DRAGON_ Neck5
+    400070: BLACK_DRAGON_ Pelvis
+    400072: BLACK_DRAGON_ Queue de cheval 1
+    400074: BLACK_DRAGON_ R Calf
+    400076: BLACK_DRAGON_ R Clavicle
+    400078: BLACK_DRAGON_ R Finger0
+    400080: BLACK_DRAGON_ R Finger01
+    400082: BLACK_DRAGON_ R Finger02
+    400084: BLACK_DRAGON_ R Finger1
+    400086: BLACK_DRAGON_ R Finger11
+    400088: BLACK_DRAGON_ R Finger12
+    400090: BLACK_DRAGON_ R Finger2
+    400092: BLACK_DRAGON_ R Finger21
+    400094: BLACK_DRAGON_ R Finger22
+    400096: BLACK_DRAGON_ R Foot
+    400098: BLACK_DRAGON_ R Forearm
+    400100: BLACK_DRAGON_ R Hand
+    400102: BLACK_DRAGON_ R HorseLink
+    400104: BLACK_DRAGON_ R Thigh
+    400106: BLACK_DRAGON_ R Toe0
+    400108: BLACK_DRAGON_ R Toe01
+    400110: BLACK_DRAGON_ R Toe02
+    400112: BLACK_DRAGON_ R Toe1
+    400114: BLACK_DRAGON_ R Toe11
+    400116: BLACK_DRAGON_ R Toe12
+    400118: BLACK_DRAGON_ R Toe2
+    400120: BLACK_DRAGON_ R Toe21
+    400122: BLACK_DRAGON_ R Toe22
+    400124: BLACK_DRAGON_ R UpperArm
+    400126: BLACK_DRAGON_ Spine
+    400128: BLACK_DRAGON_ Spine1
+    400130: BLACK_DRAGON_ Spine2
+    400132: BLACK_DRAGON_ Spine3
+    400134: BLACK_DRAGON_ Spine4
+    400136: BLACK_DRAGON_ Spine5
+    400138: BLACK_DRAGON_ Spine6
+    400140: BLACK_DRAGON_ Tail
+    400142: BLACK_DRAGON_ Tail1
+    400144: BLACK_DRAGON_ Tail10
+    400146: BLACK_DRAGON_ Tail11
+    400148: BLACK_DRAGON_ Tail12
+    400150: BLACK_DRAGON_ Tail13
+    400152: BLACK_DRAGON_ Tail14
+    400154: BLACK_DRAGON_ Tail15
+    400156: BLACK_DRAGON_ Tail16
+    400158: BLACK_DRAGON_ Tail17
+    400160: BLACK_DRAGON_ Tail18
+    400162: BLACK_DRAGON_ Tail19
+    400164: BLACK_DRAGON_ Tail2
+    400166: BLACK_DRAGON_ Tail20
+    400168: BLACK_DRAGON_ Tail21
+    400170: BLACK_DRAGON_ Tail3
+    400172: BLACK_DRAGON_ Tail4
+    400174: BLACK_DRAGON_ Tail5
+    400176: BLACK_DRAGON_ Tail6
+    400178: BLACK_DRAGON_ Tail7
+    400180: BLACK_DRAGON_ Tail8
+    400182: BLACK_DRAGON_ Tail9
+    400184: BLACK_DRAGON_ TailNub
+    400186: BLACK_DRAGON_WHISKERS_R_01
+    400188: BLACK_DRAGON_WHISKERS_R_01(mis en miroir)
+    400190: BLACK_DRAGON_WHISKERS_R_02
+    400192: BLACK_DRAGON_WHISKERS_R_02(mis en miroir)
+    400194: BLACK_DRAGON_WHISKERS_R_03
+    400196: BLACK_DRAGON_WHISKERS_R_03(mis en miroir)
+    400198: BLACK_DRAGON_WHISKERS_R_04
+    400200: BLACK_DRAGON_WHISKERS_R_04(mis en miroir)
+    400202: BLACK_DRAGON_WHISKERS_R_05
+    400204: BLACK_DRAGON_WHISKERS_R_05(mis en miroir)
+    400206: BLACK_DRAGON_WHISKERS_R_06
+    400208: BLACK_DRAGON_WHISKERS_R_06(mis en miroir)
+    400210: BLACK_DRAGON_WHISKERS_R_07
+    400212: BLACK_DRAGON_WHISKERS_R_07(mis en miroir)
+    400214: Factice002
+    400216: Factice003
+    7400000: Take 001
+    9500000: //RootNode
+    11100000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 0
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 2
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 0.01
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 1
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

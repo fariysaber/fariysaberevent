@@ -1,0 +1,18 @@
+ManifestFileVersion: 0
+CRC: 856975114
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 51a0641c5096cb5edc4e64739e19d282
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 4d24bf54f46935ed9e6cf78ac481bb9d
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Abres/Zero/UI/Atlas/SingleSprite/skill/atk1.png
+Dependencies: []

@@ -1,0 +1,188 @@
+fileFormatVersion: 2
+guid: a305723146a9f704bbbd8fbd85ecfb5b
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: FUNGOID_
+    100004: FUNGOID_ Footsteps
+    100006: FUNGOID_ Head
+    100008: FUNGOID_ L Calf
+    100010: FUNGOID_ L Clavicle
+    100012: FUNGOID_ L Finger0
+    100014: FUNGOID_ L Finger01
+    100016: FUNGOID_ L Finger02
+    100018: FUNGOID_ L Finger1
+    100020: FUNGOID_ L Finger11
+    100022: FUNGOID_ L Finger12
+    100024: FUNGOID_ L Finger2
+    100026: FUNGOID_ L Finger21
+    100028: FUNGOID_ L Finger22
+    100030: FUNGOID_ L Finger3
+    100032: FUNGOID_ L Finger31
+    100034: FUNGOID_ L Finger32
+    100036: FUNGOID_ L Finger4
+    100038: FUNGOID_ L Finger41
+    100040: FUNGOID_ L Finger42
+    100042: FUNGOID_ L Foot
+    100044: FUNGOID_ L Forearm
+    100046: FUNGOID_ L Hand
+    100048: FUNGOID_ L Thigh
+    100050: FUNGOID_ L Toe0
+    100052: FUNGOID_ L UpperArm
+    100054: FUNGOID_ Neck
+    100056: FUNGOID_ Neck1
+    100058: FUNGOID_ Pelvis
+    100060: FUNGOID_ Queue de cheval 1
+    100062: FUNGOID_ R Calf
+    100064: FUNGOID_ R Clavicle
+    100066: FUNGOID_ R Finger0
+    100068: FUNGOID_ R Finger01
+    100070: FUNGOID_ R Finger02
+    100072: FUNGOID_ R Finger1
+    100074: FUNGOID_ R Finger11
+    100076: FUNGOID_ R Finger12
+    100078: FUNGOID_ R Finger2
+    100080: FUNGOID_ R Finger21
+    100082: FUNGOID_ R Finger22
+    100084: FUNGOID_ R Finger3
+    100086: FUNGOID_ R Finger31
+    100088: FUNGOID_ R Finger32
+    100090: FUNGOID_ R Finger4
+    100092: FUNGOID_ R Finger41
+    100094: FUNGOID_ R Finger42
+    100096: FUNGOID_ R Foot
+    100098: FUNGOID_ R Forearm
+    100100: FUNGOID_ R Hand
+    100102: FUNGOID_ R Thigh
+    100104: FUNGOID_ R Toe0
+    100106: FUNGOID_ R UpperArm
+    100108: FUNGOID_ Spine
+    100110: FUNGOID_ Spine1
+    400000: //RootNode
+    400002: FUNGOID_
+    400004: FUNGOID_ Footsteps
+    400006: FUNGOID_ Head
+    400008: FUNGOID_ L Calf
+    400010: FUNGOID_ L Clavicle
+    400012: FUNGOID_ L Finger0
+    400014: FUNGOID_ L Finger01
+    400016: FUNGOID_ L Finger02
+    400018: FUNGOID_ L Finger1
+    400020: FUNGOID_ L Finger11
+    400022: FUNGOID_ L Finger12
+    400024: FUNGOID_ L Finger2
+    400026: FUNGOID_ L Finger21
+    400028: FUNGOID_ L Finger22
+    400030: FUNGOID_ L Finger3
+    400032: FUNGOID_ L Finger31
+    400034: FUNGOID_ L Finger32
+    400036: FUNGOID_ L Finger4
+    400038: FUNGOID_ L Finger41
+    400040: FUNGOID_ L Finger42
+    400042: FUNGOID_ L Foot
+    400044: FUNGOID_ L Forearm
+    400046: FUNGOID_ L Hand
+    400048: FUNGOID_ L Thigh
+    400050: FUNGOID_ L Toe0
+    400052: FUNGOID_ L UpperArm
+    400054: FUNGOID_ Neck
+    400056: FUNGOID_ Neck1
+    400058: FUNGOID_ Pelvis
+    400060: FUNGOID_ Queue de cheval 1
+    400062: FUNGOID_ R Calf
+    400064: FUNGOID_ R Clavicle
+    400066: FUNGOID_ R Finger0
+    400068: FUNGOID_ R Finger01
+    400070: FUNGOID_ R Finger02
+    400072: FUNGOID_ R Finger1
+    400074: FUNGOID_ R Finger11
+    400076: FUNGOID_ R Finger12
+    400078: FUNGOID_ R Finger2
+    400080: FUNGOID_ R Finger21
+    400082: FUNGOID_ R Finger22
+    400084: FUNGOID_ R Finger3
+    400086: FUNGOID_ R Finger31
+    400088: FUNGOID_ R Finger32
+    400090: FUNGOID_ R Finger4
+    400092: FUNGOID_ R Finger41
+    400094: FUNGOID_ R Finger42
+    400096: FUNGOID_ R Foot
+    400098: FUNGOID_ R Forearm
+    400100: FUNGOID_ R Hand
+    400102: FUNGOID_ R Thigh
+    400104: FUNGOID_ R Toe0
+    400106: FUNGOID_ R UpperArm
+    400108: FUNGOID_ Spine
+    400110: FUNGOID_ Spine1
+    7400000: Take 001
+    9500000: //RootNode
+    11100000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 0
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 2
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 0.01
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 1
+  humanoidOversampling: 1
+  additionalBone: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

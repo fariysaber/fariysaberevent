@@ -1,0 +1,16 @@
+ManifestFileVersion: 0
+CRC: 2774987932
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 287d09d98994e272ad3a378844b1b909
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: e2658f3a82ff5015cfac1043556e10e2
+HashAppended: 0
+ClassTypes:
+- Class: 89
+  Script: {instanceID: 0}
+Assets:
+- Assets/Abres/Zero/Scene/testscene/ReflectionProbe-0.exr
+Dependencies: []

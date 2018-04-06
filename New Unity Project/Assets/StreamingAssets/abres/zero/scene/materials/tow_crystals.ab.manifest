@@ -1,0 +1,22 @@
+ManifestFileVersion: 0
+CRC: 2281609063
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: b2a22df511c0e3d8898f3e151157e3de
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 630da41884e50544e68649ebf74cf75b
+HashAppended: 0
+ClassTypes:
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 89
+  Script: {instanceID: 0}
+Assets:
+- Assets/Abres/Zero/Scene/Materials/Tow_Crystals.mat
+Dependencies: []

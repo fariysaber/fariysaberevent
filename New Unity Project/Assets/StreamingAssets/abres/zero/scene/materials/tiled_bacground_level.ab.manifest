@@ -1,0 +1,18 @@
+ManifestFileVersion: 0
+CRC: 51832736
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: d60d7d7293ee7875a17c7f33e8d29aca
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: e69cf4aea34f06169d815d14bb7707cf
+HashAppended: 0
+ClassTypes:
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+Assets:
+- Assets/Abres/Zero/Scene/Materials/Tiled_bacground_level.mat
+Dependencies: []

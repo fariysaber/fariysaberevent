@@ -1,0 +1,292 @@
+fileFormatVersion: 2
+guid: 74d2cb5c14e301940ad0789502b26ef4
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: BASILISK_
+    100004: BASILISK_ Head
+    100006: BASILISK_ L Calf
+    100008: BASILISK_ L Clavicle
+    100010: BASILISK_ L Finger0
+    100012: BASILISK_ L Finger01
+    100014: BASILISK_ L Finger02
+    100016: BASILISK_ L Finger1
+    100018: BASILISK_ L Finger11
+    100020: BASILISK_ L Finger12
+    100022: BASILISK_ L Finger2
+    100024: BASILISK_ L Finger21
+    100026: BASILISK_ L Finger22
+    100028: BASILISK_ L Foot
+    100030: BASILISK_ L Forearm
+    100032: BASILISK_ L Hand
+    100034: BASILISK_ L HorseLink
+    100036: BASILISK_ L Thigh
+    100038: BASILISK_ L Toe0
+    100040: BASILISK_ L Toe01
+    100042: BASILISK_ L Toe02
+    100044: BASILISK_ L Toe1
+    100046: BASILISK_ L Toe11
+    100048: BASILISK_ L Toe12
+    100050: BASILISK_ L Toe2
+    100052: BASILISK_ L Toe21
+    100054: BASILISK_ L Toe22
+    100056: BASILISK_ L Toe3
+    100058: BASILISK_ L Toe31
+    100060: BASILISK_ L Toe32
+    100062: BASILISK_ L UpperArm
+    100064: BASILISK_ Neck
+    100066: BASILISK_ Neck1
+    100068: BASILISK_ Neck2
+    100070: BASILISK_ Neck3
+    100072: BASILISK_ Neck4
+    100074: BASILISK_ Neck5
+    100076: BASILISK_ Neck6
+    100078: BASILISK_ Neck7
+    100080: BASILISK_ Pelvis
+    100082: BASILISK_ Queue de cheval 1
+    100084: BASILISK_ R Calf
+    100086: BASILISK_ R Clavicle
+    100088: BASILISK_ R Finger0
+    100090: BASILISK_ R Finger01
+    100092: BASILISK_ R Finger02
+    100094: BASILISK_ R Finger1
+    100096: BASILISK_ R Finger11
+    100098: BASILISK_ R Finger12
+    100100: BASILISK_ R Finger2
+    100102: BASILISK_ R Finger21
+    100104: BASILISK_ R Finger22
+    100106: BASILISK_ R Foot
+    100108: BASILISK_ R Forearm
+    100110: BASILISK_ R Hand
+    100112: BASILISK_ R HorseLink
+    100114: BASILISK_ R Thigh
+    100116: BASILISK_ R Toe0
+    100118: BASILISK_ R Toe01
+    100120: BASILISK_ R Toe02
+    100122: BASILISK_ R Toe1
+    100124: BASILISK_ R Toe11
+    100126: BASILISK_ R Toe12
+    100128: BASILISK_ R Toe2
+    100130: BASILISK_ R Toe21
+    100132: BASILISK_ R Toe22
+    100134: BASILISK_ R Toe3
+    100136: BASILISK_ R Toe31
+    100138: BASILISK_ R Toe32
+    100140: BASILISK_ R UpperArm
+    100142: BASILISK_ Spine
+    100144: BASILISK_ Spine1
+    100146: BASILISK_ Tail
+    100148: BASILISK_ Tail1
+    100150: BASILISK_ Tail10
+    100152: BASILISK_ Tail11
+    100154: BASILISK_ Tail12
+    100156: BASILISK_ Tail2
+    100158: BASILISK_ Tail3
+    100160: BASILISK_ Tail4
+    100162: BASILISK_ Tail5
+    100164: BASILISK_ Tail6
+    100166: BASILISK_ Tail7
+    100168: BASILISK_ Tail8
+    100170: BASILISK_ Tail9
+    100172: BASILISK_CREST_L_1
+    100174: BASILISK_CREST_L_2
+    100176: BASILISK_CREST_L_3
+    100178: BASILISK_CREST_L_4
+    100180: BASILISK_CREST_L_5
+    100182: BASILISK_CREST_L_6
+    100184: BASILISK_CREST_L_7
+    100186: BASILISK_CREST_L_8
+    100188: BASILISK_CREST_L_9
+    100190: BASILISK_CREST_R_1
+    100192: BASILISK_CREST_R_2
+    100194: BASILISK_CREST_R_3
+    100196: BASILISK_CREST_R_4
+    100198: BASILISK_CREST_R_5
+    100200: BASILISK_CREST_R_6
+    100202: BASILISK_CREST_R_7
+    100204: BASILISK_CREST_R_8
+    100206: BASILISK_CREST_RL_9
+    100208: BASILISK_TONGUE_1
+    100210: BASILISK_TONGUE_2
+    100212: BASILISK_TONGUE_3
+    100214: BASILISK_TONGUE_4
+    400000: //RootNode
+    400002: BASILISK_
+    400004: BASILISK_ Head
+    400006: BASILISK_ L Calf
+    400008: BASILISK_ L Clavicle
+    400010: BASILISK_ L Finger0
+    400012: BASILISK_ L Finger01
+    400014: BASILISK_ L Finger02
+    400016: BASILISK_ L Finger1
+    400018: BASILISK_ L Finger11
+    400020: BASILISK_ L Finger12
+    400022: BASILISK_ L Finger2
+    400024: BASILISK_ L Finger21
+    400026: BASILISK_ L Finger22
+    400028: BASILISK_ L Foot
+    400030: BASILISK_ L Forearm
+    400032: BASILISK_ L Hand
+    400034: BASILISK_ L HorseLink
+    400036: BASILISK_ L Thigh
+    400038: BASILISK_ L Toe0
+    400040: BASILISK_ L Toe01
+    400042: BASILISK_ L Toe02
+    400044: BASILISK_ L Toe1
+    400046: BASILISK_ L Toe11
+    400048: BASILISK_ L Toe12
+    400050: BASILISK_ L Toe2
+    400052: BASILISK_ L Toe21
+    400054: BASILISK_ L Toe22
+    400056: BASILISK_ L Toe3
+    400058: BASILISK_ L Toe31
+    400060: BASILISK_ L Toe32
+    400062: BASILISK_ L UpperArm
+    400064: BASILISK_ Neck
+    400066: BASILISK_ Neck1
+    400068: BASILISK_ Neck2
+    400070: BASILISK_ Neck3
+    400072: BASILISK_ Neck4
+    400074: BASILISK_ Neck5
+    400076: BASILISK_ Neck6
+    400078: BASILISK_ Neck7
+    400080: BASILISK_ Pelvis
+    400082: BASILISK_ Queue de cheval 1
+    400084: BASILISK_ R Calf
+    400086: BASILISK_ R Clavicle
+    400088: BASILISK_ R Finger0
+    400090: BASILISK_ R Finger01
+    400092: BASILISK_ R Finger02
+    400094: BASILISK_ R Finger1
+    400096: BASILISK_ R Finger11
+    400098: BASILISK_ R Finger12
+    400100: BASILISK_ R Finger2
+    400102: BASILISK_ R Finger21
+    400104: BASILISK_ R Finger22
+    400106: BASILISK_ R Foot
+    400108: BASILISK_ R Forearm
+    400110: BASILISK_ R Hand
+    400112: BASILISK_ R HorseLink
+    400114: BASILISK_ R Thigh
+    400116: BASILISK_ R Toe0
+    400118: BASILISK_ R Toe01
+    400120: BASILISK_ R Toe02
+    400122: BASILISK_ R Toe1
+    400124: BASILISK_ R Toe11
+    400126: BASILISK_ R Toe12
+    400128: BASILISK_ R Toe2
+    400130: BASILISK_ R Toe21
+    400132: BASILISK_ R Toe22
+    400134: BASILISK_ R Toe3
+    400136: BASILISK_ R Toe31
+    400138: BASILISK_ R Toe32
+    400140: BASILISK_ R UpperArm
+    400142: BASILISK_ Spine
+    400144: BASILISK_ Spine1
+    400146: BASILISK_ Tail
+    400148: BASILISK_ Tail1
+    400150: BASILISK_ Tail10
+    400152: BASILISK_ Tail11
+    400154: BASILISK_ Tail12
+    400156: BASILISK_ Tail2
+    400158: BASILISK_ Tail3
+    400160: BASILISK_ Tail4
+    400162: BASILISK_ Tail5
+    400164: BASILISK_ Tail6
+    400166: BASILISK_ Tail7
+    400168: BASILISK_ Tail8
+    400170: BASILISK_ Tail9
+    400172: BASILISK_CREST_L_1
+    400174: BASILISK_CREST_L_2
+    400176: BASILISK_CREST_L_3
+    400178: BASILISK_CREST_L_4
+    400180: BASILISK_CREST_L_5
+    400182: BASILISK_CREST_L_6
+    400184: BASILISK_CREST_L_7
+    400186: BASILISK_CREST_L_8
+    400188: BASILISK_CREST_L_9
+    400190: BASILISK_CREST_R_1
+    400192: BASILISK_CREST_R_2
+    400194: BASILISK_CREST_R_3
+    400196: BASILISK_CREST_R_4
+    400198: BASILISK_CREST_R_5
+    400200: BASILISK_CREST_R_6
+    400202: BASILISK_CREST_R_7
+    400204: BASILISK_CREST_R_8
+    400206: BASILISK_CREST_RL_9
+    400208: BASILISK_TONGUE_1
+    400210: BASILISK_TONGUE_2
+    400212: BASILISK_TONGUE_3
+    400214: BASILISK_TONGUE_4
+    7400000: Take 001
+    9500000: //RootNode
+    11100000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 0
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 2
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 0.01
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 1
+  humanoidOversampling: 1
+  additionalBone: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

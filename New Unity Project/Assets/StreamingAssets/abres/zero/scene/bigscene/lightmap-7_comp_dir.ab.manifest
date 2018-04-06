@@ -1,0 +1,16 @@
+ManifestFileVersion: 0
+CRC: 1008538965
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 6d39a0de43902674944c95cb41ef59ff
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: c1642440719609290a7e09a50a7286f4
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+Assets:
+- Assets/Abres/Zero/Scene/bigscene/Lightmap-7_comp_dir.png
+Dependencies: []

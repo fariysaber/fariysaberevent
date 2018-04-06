@@ -1,0 +1,30 @@
+ManifestFileVersion: 0
+CRC: 3385891206
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 19482454ff4ce6065937f94e8f4f93c2
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: f4c98ccf6f0096f51c2399fa92db9cfd
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 65
+  Script: {instanceID: 0}
+- Class: 198
+  Script: {instanceID: 0}
+- Class: 199
+  Script: {instanceID: 0}
+Assets:
+- Assets/Abres/Zero/effect/chongjibo.prefab
+Dependencies: []

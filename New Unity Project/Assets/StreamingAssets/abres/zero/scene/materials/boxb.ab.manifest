@@ -1,0 +1,21 @@
+ManifestFileVersion: 0
+CRC: 2847641802
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: b465c3da3ec1101e5ecd017c9e81e836
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 0b04a37228feb7b9c312fb0cfbaa19c4
+HashAppended: 0
+ClassTypes:
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+Assets:
+- Assets/Abres/Zero/Scene/Materials/BoxB.mat
+Dependencies:
+- "E:/\u5DE5\u4F5C\u5B66\u4E60/unityproject/New Unity Project/Assets/StreamingAssets/abres/zero/scene/textures/boxb.ab"

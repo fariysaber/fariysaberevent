@@ -1,0 +1,36 @@
+ManifestFileVersion: 0
+CRC: 1334569473
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: e33a610b492074faa157a9a33ddbc177
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 74c5a4571c3b5014c0d18d3e6f7a04da
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 108
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 11500000, guid: 48bb4366398474d4e82e1e857134a209, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+- Class: 198
+  Script: {instanceID: 0}
+- Class: 199
+  Script: {instanceID: 0}
+Assets:
+- Assets/Abres/Zero/effect/zhuoshao.prefab
+Dependencies: []

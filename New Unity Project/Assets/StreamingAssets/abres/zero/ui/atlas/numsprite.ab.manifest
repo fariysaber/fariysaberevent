@@ -1,0 +1,27 @@
+ManifestFileVersion: 0
+CRC: 3883667241
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: e5a844593ee7b0aac02c4817ce3877f2
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 4d24bf54f46935ed9e6cf78ac481bb9d
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Abres/Zero/UI/Atlas/numsprite/pic_num5.png
+- Assets/Abres/Zero/UI/Atlas/numsprite/pic_num7.png
+- Assets/Abres/Zero/UI/Atlas/numsprite/pic_num0.png
+- Assets/Abres/Zero/UI/Atlas/numsprite/pic_num1.png
+- Assets/Abres/Zero/UI/Atlas/numsprite/pic_num8.png
+- Assets/Abres/Zero/UI/Atlas/numsprite/pic_num9.png
+- Assets/Abres/Zero/UI/Atlas/numsprite/pic_num3.png
+- Assets/Abres/Zero/UI/Atlas/numsprite/pic_num6.png
+- Assets/Abres/Zero/UI/Atlas/numsprite/pic_num2.png
+- Assets/Abres/Zero/UI/Atlas/numsprite/pic_num4.png
+Dependencies: []

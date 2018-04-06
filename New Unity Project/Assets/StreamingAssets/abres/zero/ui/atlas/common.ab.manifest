@@ -1,0 +1,30 @@
+ManifestFileVersion: 0
+CRC: 659529598
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: bede0e68706dcfa264fa76a8453a0c7a
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 4d24bf54f46935ed9e6cf78ac481bb9d
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Abres/Zero/UI/Atlas/Common/pic_gang.png
+- Assets/Abres/Zero/UI/Atlas/Common/pic_ling.png
+- Assets/Abres/Zero/UI/Atlas/Common/DialogBubbles_TEMP_466_3.tex.png
+- Assets/Abres/Zero/UI/Atlas/Common/DialogBubbles_TEMP_228_250.tex.png
+- Assets/Abres/Zero/UI/Atlas/Common/ResourceBar_TEMP_530_220.tex.png
+- Assets/Abres/Zero/UI/Atlas/Common/pic_qiao.png
+- Assets/Abres/Zero/UI/Atlas/Common/ResourceBar_TEMP_530_236.tex.png
+- Assets/Abres/Zero/UI/Atlas/Common/UI_CRB_RaidFrames_513_322.tex.png
+- Assets/Abres/Zero/UI/Atlas/Common/UI_CRB_HUD_DatachronModes_249_478.tex.png
+- Assets/Abres/Zero/UI/Atlas/Common/UI_CRB_RaidFrames_513_290.tex.png
+- Assets/Abres/Zero/UI/Atlas/Common/UI_BK3_Holo_Alert_Confirmation.tex.png
+- Assets/Abres/Zero/UI/Atlas/Common/UI_PathIcons_0_0.tex.png
+- Assets/Abres/Zero/UI/Atlas/Common/UI_Unitframes_1_449.tex.png
+Dependencies: []

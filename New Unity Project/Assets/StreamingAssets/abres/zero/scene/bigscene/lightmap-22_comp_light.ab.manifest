@@ -1,0 +1,16 @@
+ManifestFileVersion: 0
+CRC: 3063193664
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: d5055ca01518daa36b941768c4c74e1f
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: c1642440719609290a7e09a50a7286f4
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+Assets:
+- Assets/Abres/Zero/Scene/bigscene/Lightmap-22_comp_light.exr
+Dependencies: []

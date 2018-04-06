@@ -1,0 +1,501 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProductVersion>10.0.20506</ProductVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <RootNamespace></RootNamespace>
+    <ProjectGuid>{B2B58FB2-4462-6B0C-A872-40DD957E5FE0}</ProjectGuid>
+    <OutputType>Library</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <AssemblyName>Assembly-CSharp</AssemblyName>
+    <TargetFrameworkVersion>v3.5</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <BaseDirectory>Assets</BaseDirectory>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>Temp\bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE;UNITY_5_3_OR_NEWER;UNITY_5_4_OR_NEWER;UNITY_5_5_OR_NEWER;UNITY_5_5_2;UNITY_5_5;UNITY_5;ENABLE_AUDIO;ENABLE_CACHING;ENABLE_CLOTH;ENABLE_DUCK_TYPING;ENABLE_GENERICS;ENABLE_MICROPHONE;ENABLE_MULTIPLE_DISPLAYS;ENABLE_PHYSICS;ENABLE_SPRITERENDERER_FLIPPING;ENABLE_SPRITES;ENABLE_TERRAIN;ENABLE_RAKNET;ENABLE_UNET;ENABLE_LZMA;ENABLE_UNITYEVENTS;ENABLE_WEBCAM;ENABLE_WWW;ENABLE_CLOUD_SERVICES_COLLAB;ENABLE_CLOUD_SERVICES_ADS;ENABLE_CLOUD_HUB;ENABLE_CLOUD_PROJECT_ID;ENABLE_CLOUD_SERVICES_UNET;ENABLE_CLOUD_SERVICES_BUILD;ENABLE_CLOUD_LICENSE;ENABLE_EDITOR_METRICS;ENABLE_EDITOR_METRICS_CACHING;INCLUDE_DYNAMIC_GI;INCLUDE_GI;PLATFORM_SUPPORTS_MONO;RENDER_SOFTWARE_CURSOR;INCLUDE_PUBNUB;ENABLE_PLAYMODE_TESTS_RUNNER;ENABLE_SCRIPTING_NEW_CSHARP_COMPILER;UNITY_STANDALONE_WIN;UNITY_STANDALONE;ENABLE_SUBSTANCE;ENABLE_RUNTIME_GI;ENABLE_MOVIES;ENABLE_NETWORK;ENABLE_CRUNCH_TEXTURE_COMPRESSION;ENABLE_UNITYWEBREQUEST;ENABLE_CLOUD_SERVICES;ENABLE_CLOUD_SERVICES_ANALYTICS;ENABLE_CLOUD_SERVICES_PURCHASING;ENABLE_CLOUD_SERVICES_CRASH_REPORTING;ENABLE_EVENT_QUEUE;ENABLE_CLUSTERINPUT;ENABLE_VIDEO;ENABLE_VR;ENABLE_WEBSOCKET_HOST;ENABLE_MONO;ENABLE_PROFILER;UNITY_ASSERTIONS;UNITY_EDITOR;UNITY_EDITOR_64;UNITY_EDITOR_WIN;UNITY_TEAM_LICENSE;UNITY_PRO_LICENSE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+    <NoWarn>0169</NoWarn>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>Temp\bin\Release\</OutputPath>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+    <NoWarn>0169</NoWarn>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.XML" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Runtime.Serialization" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="UnityEngine">
+      <HintPath>E:/工作学习/unity/Editor/Data/Managed/UnityEngine.dll</HintPath>
+    </Reference>
+    <Reference Include="UnityEditor">
+      <HintPath>E:/工作学习/unity/Editor/Data/Managed/UnityEditor.dll</HintPath>
+    </Reference>
+  </ItemGroup>
+  <ItemGroup>
+     <Compile Include="Assets\AbResTemp\SceneAreas\FT_CartoonEffect_vol01\ttttt.cs" />
+     <Compile Include="Assets\AbResTemp\SceneAreas\FT_Slasher_volume01\SampleScene\Scripts\Button.cs" />
+     <Compile Include="Assets\AbResTemp\SceneAreas\FT_Slasher_volume01\SampleScene\Scripts\EffectSelfDestruct.cs" />
+     <Compile Include="Assets\AbResTemp\SceneAreas\LightCreate.cs" />
+     <Compile Include="Assets\AbResTemp\SceneAreas\MOBA and Tower Defense\Standard Assets\Environment\Water (Basic)\Scripts\WaterBasic.cs" />
+     <Compile Include="Assets\AbResTemp\SceneAreas\MOBA and Tower Defense\Standard Assets\Environment\Water\Water\Scripts\Displace.cs" />
+     <Compile Include="Assets\AbResTemp\SceneAreas\MOBA and Tower Defense\Standard Assets\Environment\Water\Water\Scripts\GerstnerDisplace.cs" />
+     <Compile Include="Assets\AbResTemp\SceneAreas\MOBA and Tower Defense\Standard Assets\Environment\Water\Water\Scripts\MeshContainer.cs" />
+     <Compile Include="Assets\AbResTemp\SceneAreas\MOBA and Tower Defense\Standard Assets\Environment\Water\Water\Scripts\PlanarReflection.cs" />
+     <Compile Include="Assets\AbResTemp\SceneAreas\MOBA and Tower Defense\Standard Assets\Environment\Water\Water\Scripts\SpecularLighting.cs" />
+     <Compile Include="Assets\AbResTemp\SceneAreas\MOBA and Tower Defense\Standard Assets\Environment\Water\Water\Scripts\Water.cs" />
+     <Compile Include="Assets\AbResTemp\SceneAreas\MOBA and Tower Defense\Standard Assets\Environment\Water\Water\Scripts\WaterBase.cs" />
+     <Compile Include="Assets\AbResTemp\SceneAreas\MOBA and Tower Defense\Standard Assets\Environment\Water\Water\Scripts\WaterTile.cs" />
+     <Compile Include="Assets\AbResTemp\SceneAreas\Standard Assets\Character Controllers\Sources\Scripts\MouseLook.cs" />
+     <Compile Include="Assets\AbResTemp\SceneAreas\Standard Assets\RFX_Resources\Scripts\Destroy.cs" />
+     <Compile Include="Assets\AbResTemp\SceneAreas\Yuka\Scripts\AnimationUpdate.cs" />
+     <Compile Include="Assets\AbResTemp\SceneAreas\Yuka\Scripts\Swapper.cs" />
+     <Compile Include="Assets\AbResTemp\SceneAreas\Yuka\Scripts\ThirdPersonCamera.cs" />
+     <Compile Include="Assets\AbResTemp\SceneAreas\Yuka\Scripts\controller.cs" />
+     <Compile Include="Assets\AbResTemp\SceneAreas\Yuka\Standard Assets\Scripts\General Scripts\ActivateTrigger.cs" />
+     <Compile Include="Assets\AbResTemp\SceneAreas\Z ! Voxel BlocksAssets\JMO Assets\Cartoon FX\Demo\Assets\CFX2_Demo.cs" />
+     <Compile Include="Assets\AbResTemp\SceneAreas\Z ! Voxel BlocksAssets\JMO Assets\Cartoon FX\Demo\Assets\CFX_Demo_RandomDir.cs" />
+     <Compile Include="Assets\AbResTemp\SceneAreas\Z ! Voxel BlocksAssets\JMO Assets\Cartoon FX\Demo\Assets\CFX_Demo_RotateCamera.cs" />
+     <Compile Include="Assets\AbResTemp\SceneAreas\Z ! Voxel BlocksAssets\JMO Assets\Cartoon FX\Scripts\CFX2_AutoRotate.cs" />
+     <Compile Include="Assets\AbResTemp\SceneAreas\Z ! Voxel BlocksAssets\JMO Assets\Cartoon FX\Scripts\CFX_AutoDestructShuriken.cs" />
+     <Compile Include="Assets\AbResTemp\SceneAreas\Z ! Voxel BlocksAssets\JMO Assets\Cartoon FX\Scripts\CFX_AutodestructWhenNoChildren.cs" />
+     <Compile Include="Assets\AbResTemp\SceneAreas\Z ! Voxel BlocksAssets\JMO Assets\Cartoon FX\Scripts\CFX_InspectorHelp.cs" />
+     <Compile Include="Assets\AbResTemp\SceneAreas\Z ! Voxel BlocksAssets\JMO Assets\Cartoon FX\Scripts\CFX_LightIntensityFade.cs" />
+     <Compile Include="Assets\AbResTemp\SceneAreas\Z ! Voxel BlocksAssets\JMO Assets\Cartoon FX\Scripts\CFX_ShurikenThreadFix.cs" />
+     <Compile Include="Assets\AbResTemp\SceneAreas\Z ! Voxel BlocksAssets\JMO Assets\Cartoon FX\Spawn System\CFX_SpawnSystem.cs" />
+     <Compile Include="Assets\AbResTemp\SceneAreas\Z ! Voxel BlocksAssets\NeatWolf\ParticleFX01\_Scripts\Rotating.cs" />
+     <Compile Include="Assets\AbResTemp\SceneAreas\Z ! Voxel BlocksAssets\Scripts\AutoRotary.cs" />
+     <Compile Include="Assets\AbResTemp\SceneAreas\Z ! Voxel BlocksAssets\Scripts\Rulemovement.cs" />
+     <Compile Include="Assets\AbResTemp\SceneAreas\Z ! Voxel BlocksAssets\Standard Assets\Effects\ImageEffects\GlowEffect.cs" />
+     <Compile Include="Assets\AbResTemp\SceneAreas\Z ! Voxel BlocksAssets\Standard Assets\Effects\ImageEffects\Scripts\Antialiasing.cs" />
+     <Compile Include="Assets\AbResTemp\SceneAreas\Z ! Voxel BlocksAssets\Standard Assets\Effects\ImageEffects\Scripts\Bloom.cs" />
+     <Compile Include="Assets\AbResTemp\SceneAreas\Z ! Voxel BlocksAssets\Standard Assets\Effects\ImageEffects\Scripts\BloomAndFlares.cs" />
+     <Compile Include="Assets\AbResTemp\SceneAreas\Z ! Voxel BlocksAssets\Standard Assets\Effects\ImageEffects\Scripts\BloomOptimized.cs" />
+     <Compile Include="Assets\AbResTemp\SceneAreas\Z ! Voxel BlocksAssets\Standard Assets\Effects\ImageEffects\Scripts\Blur.cs" />
+     <Compile Include="Assets\AbResTemp\SceneAreas\Z ! Voxel BlocksAssets\Standard Assets\Effects\ImageEffects\Scripts\BlurOptimized.cs" />
+     <Compile Include="Assets\AbResTemp\SceneAreas\Z ! Voxel BlocksAssets\Standard Assets\Effects\ImageEffects\Scripts\CameraMotionBlur.cs" />
+     <Compile Include="Assets\AbResTemp\SceneAreas\Z ! Voxel BlocksAssets\Standard Assets\Effects\ImageEffects\Scripts\ColorCorrectionCurves.cs" />
+     <Compile Include="Assets\AbResTemp\SceneAreas\Z ! Voxel BlocksAssets\Standard Assets\Effects\ImageEffects\Scripts\ColorCorrectionLookup.cs" />
+     <Compile Include="Assets\AbResTemp\SceneAreas\Z ! Voxel BlocksAssets\Standard Assets\Effects\ImageEffects\Scripts\ColorCorrectionRamp.cs" />
+     <Compile Include="Assets\AbResTemp\SceneAreas\Z ! Voxel BlocksAssets\Standard Assets\Effects\ImageEffects\Scripts\ContrastEnhance.cs" />
+     <Compile Include="Assets\AbResTemp\SceneAreas\Z ! Voxel BlocksAssets\Standard Assets\Effects\ImageEffects\Scripts\ContrastStretch.cs" />
+     <Compile Include="Assets\AbResTemp\SceneAreas\Z ! Voxel BlocksAssets\Standard Assets\Effects\ImageEffects\Scripts\CreaseShading.cs" />
+     <Compile Include="Assets\AbResTemp\SceneAreas\Z ! Voxel BlocksAssets\Standard Assets\Effects\ImageEffects\Scripts\DepthOfField.cs" />
+     <Compile Include="Assets\AbResTemp\SceneAreas\Z ! Voxel BlocksAssets\Standard Assets\Effects\ImageEffects\Scripts\DepthOfFieldDeprecated.cs" />
+     <Compile Include="Assets\AbResTemp\SceneAreas\Z ! Voxel BlocksAssets\Standard Assets\Effects\ImageEffects\Scripts\EdgeDetection.cs" />
+     <Compile Include="Assets\AbResTemp\SceneAreas\Z ! Voxel BlocksAssets\Standard Assets\Effects\ImageEffects\Scripts\Fisheye.cs" />
+     <Compile Include="Assets\AbResTemp\SceneAreas\Z ! Voxel BlocksAssets\Standard Assets\Effects\ImageEffects\Scripts\GlobalFog.cs" />
+     <Compile Include="Assets\AbResTemp\SceneAreas\Z ! Voxel BlocksAssets\Standard Assets\Effects\ImageEffects\Scripts\Grayscale.cs" />
+     <Compile Include="Assets\AbResTemp\SceneAreas\Z ! Voxel BlocksAssets\Standard Assets\Effects\ImageEffects\Scripts\ImageEffectBase.cs" />
+     <Compile Include="Assets\AbResTemp\SceneAreas\Z ! Voxel BlocksAssets\Standard Assets\Effects\ImageEffects\Scripts\ImageEffects.cs" />
+     <Compile Include="Assets\AbResTemp\SceneAreas\Z ! Voxel BlocksAssets\Standard Assets\Effects\ImageEffects\Scripts\MotionBlur.cs" />
+     <Compile Include="Assets\AbResTemp\SceneAreas\Z ! Voxel BlocksAssets\Standard Assets\Effects\ImageEffects\Scripts\NoiseAndGrain.cs" />
+     <Compile Include="Assets\AbResTemp\SceneAreas\Z ! Voxel BlocksAssets\Standard Assets\Effects\ImageEffects\Scripts\NoiseAndScratches.cs" />
+     <Compile Include="Assets\AbResTemp\SceneAreas\Z ! Voxel BlocksAssets\Standard Assets\Effects\ImageEffects\Scripts\PostEffectsBase.cs" />
+     <Compile Include="Assets\AbResTemp\SceneAreas\Z ! Voxel BlocksAssets\Standard Assets\Effects\ImageEffects\Scripts\PostEffectsHelper.cs" />
+     <Compile Include="Assets\AbResTemp\SceneAreas\Z ! Voxel BlocksAssets\Standard Assets\Effects\ImageEffects\Scripts\Quads.cs" />
+     <Compile Include="Assets\AbResTemp\SceneAreas\Z ! Voxel BlocksAssets\Standard Assets\Effects\ImageEffects\Scripts\ScreenOverlay.cs" />
+     <Compile Include="Assets\AbResTemp\SceneAreas\Z ! Voxel BlocksAssets\Standard Assets\Effects\ImageEffects\Scripts\ScreenSpaceAmbientObscurance.cs" />
+     <Compile Include="Assets\AbResTemp\SceneAreas\Z ! Voxel BlocksAssets\Standard Assets\Effects\ImageEffects\Scripts\ScreenSpaceAmbientOcclusion.cs" />
+     <Compile Include="Assets\AbResTemp\SceneAreas\Z ! Voxel BlocksAssets\Standard Assets\Effects\ImageEffects\Scripts\SepiaTone.cs" />
+     <Compile Include="Assets\AbResTemp\SceneAreas\Z ! Voxel BlocksAssets\Standard Assets\Effects\ImageEffects\Scripts\SunShafts.cs" />
+     <Compile Include="Assets\AbResTemp\SceneAreas\Z ! Voxel BlocksAssets\Standard Assets\Effects\ImageEffects\Scripts\TiltShift.cs" />
+     <Compile Include="Assets\AbResTemp\SceneAreas\Z ! Voxel BlocksAssets\Standard Assets\Effects\ImageEffects\Scripts\Tonemapping.cs" />
+     <Compile Include="Assets\AbResTemp\SceneAreas\Z ! Voxel BlocksAssets\Standard Assets\Effects\ImageEffects\Scripts\Triangles.cs" />
+     <Compile Include="Assets\AbResTemp\SceneAreas\Z ! Voxel BlocksAssets\Standard Assets\Effects\ImageEffects\Scripts\Twirl.cs" />
+     <Compile Include="Assets\AbResTemp\SceneAreas\Z ! Voxel BlocksAssets\Standard Assets\Effects\ImageEffects\Scripts\VignetteAndChromaticAberration.cs" />
+     <Compile Include="Assets\AbResTemp\SceneAreas\Z ! Voxel BlocksAssets\Standard Assets\Effects\ImageEffects\Scripts\Vortex.cs" />
+     <Compile Include="Assets\AbResTemp\SceneAreas\hero\testanimation.cs" />
+     <Compile Include="Assets\AbResTemp\testScene\NewBehaviourScript.cs" />
+     <Compile Include="Assets\AbResTemp\testScene\testPanel.cs" />
+     <Compile Include="Assets\Scripts\Base\Common\Globals.cs" />
+     <Compile Include="Assets\Scripts\Base\Extend\MonoBehaviorExt.cs" />
+     <Compile Include="Assets\Scripts\Base\Extend\Singleton.cs" />
+     <Compile Include="Assets\Scripts\Base\Extend\SingletonMonoBehaviour.cs" />
+     <Compile Include="Assets\Scripts\Base\ResourceMgr\AssetLoader.cs" />
+     <Compile Include="Assets\Scripts\Base\ResourceMgr\AssetMgr.cs" />
+     <Compile Include="Assets\Scripts\Base\ResourceMgr\AssetRecord.cs" />
+     <Compile Include="Assets\Scripts\Base\ResourceMgr\ResourceMgr.cs" />
+     <Compile Include="Assets\Scripts\Base\ResourceMgr\ResourcePath.cs" />
+     <Compile Include="Assets\Scripts\Base\Time\GlobalTimer.cs" />
+     <Compile Include="Assets\Scripts\Base\Time\ITick.cs" />
+     <Compile Include="Assets\Scripts\Base\Time\TickMgr.cs" />
+     <Compile Include="Assets\Scripts\Base\Util\ColliderUtil.cs" />
+     <Compile Include="Assets\Scripts\Base\Util\ColorUtil.cs" />
+     <Compile Include="Assets\Scripts\Base\Util\CoroutineHelper.cs" />
+     <Compile Include="Assets\Scripts\Base\Util\Debugger.cs" />
+     <Compile Include="Assets\Scripts\Base\Util\DontDestroyComponent.cs" />
+     <Compile Include="Assets\Scripts\Base\Util\Event\EventDispatcher.cs" />
+     <Compile Include="Assets\Scripts\Base\Util\Event\GlobalEvents.cs" />
+     <Compile Include="Assets\Scripts\Base\Util\FileUtils.cs" />
+     <Compile Include="Assets\Scripts\Base\Util\GameTools.cs" />
+     <Compile Include="Assets\Scripts\Base\Util\HtmlUtil.cs" />
+     <Compile Include="Assets\Scripts\Base\Util\Locker.cs" />
+     <Compile Include="Assets\Scripts\Base\Util\SerializerUtils.cs" />
+     <Compile Include="Assets\Scripts\Base\Util\TransformUtils.cs" />
+     <Compile Include="Assets\Scripts\Base\Util\UBinder.cs" />
+     <Compile Include="Assets\Scripts\Base\Util\UniqueIDHelper.cs" />
+     <Compile Include="Assets\Scripts\DataBase\DataBase.cs" />
+     <Compile Include="Assets\Scripts\DataBase\DataBasePlayer.cs" />
+     <Compile Include="Assets\Scripts\Game\Battle\Ai\AIBehavior\BehaviorNode.cs" />
+     <Compile Include="Assets\Scripts\Game\Battle\Ai\AIBehavior\Composites\CompositeNode.cs" />
+     <Compile Include="Assets\Scripts\Game\Battle\Ai\AIBehavior\Composites\FilpSelectorNode.cs" />
+     <Compile Include="Assets\Scripts\Game\Battle\Ai\AIBehavior\Composites\ParallelNode.cs" />
+     <Compile Include="Assets\Scripts\Game\Battle\Ai\AIBehavior\Composites\ProbabilitySelectorNode.cs" />
+     <Compile Include="Assets\Scripts\Game\Battle\Ai\AIBehavior\Composites\SelectorNode.cs" />
+     <Compile Include="Assets\Scripts\Game\Battle\Ai\AIBehavior\Composites\SequencerNode.cs" />
+     <Compile Include="Assets\Scripts\Game\Battle\Ai\AIBehavior\Composites\StepSequencerNode.cs" />
+     <Compile Include="Assets\Scripts\Game\Battle\Ai\AIBehavior\LeafBehavior\ActionNodes\ActionNode.cs" />
+     <Compile Include="Assets\Scripts\Game\Battle\Ai\AIBehavior\LeafBehavior\ActionNodes\MoveAction\MoveBornActionNode.cs" />
+     <Compile Include="Assets\Scripts\Game\Battle\Ai\AIBehavior\LeafBehavior\ActionNodes\MoveAction\MoveChouhenActionNode.cs" />
+     <Compile Include="Assets\Scripts\Game\Battle\Ai\AIBehavior\LeafBehavior\ActionNodes\MoveAction\XunluoActionNode.cs" />
+     <Compile Include="Assets\Scripts\Game\Battle\Ai\AIBehavior\LeafBehavior\ActionNodes\RemoveAction\RemoveChouhenActionNode.cs" />
+     <Compile Include="Assets\Scripts\Game\Battle\Ai\AIBehavior\LeafBehavior\ActionNodes\UseSkill\UseSkillActionNode.cs" />
+     <Compile Include="Assets\Scripts\Game\Battle\Ai\AIBehavior\LeafBehavior\Conditions\Chouhen\ChouhenCodiNode.cs" />
+     <Compile Include="Assets\Scripts\Game\Battle\Ai\AIBehavior\LeafBehavior\Conditions\Chouhen\ChouhenCodiNullNode.cs" />
+     <Compile Include="Assets\Scripts\Game\Battle\Ai\AIBehavior\LeafBehavior\Conditions\CoditionNode.cs" />
+     <Compile Include="Assets\Scripts\Game\Battle\Ai\AIBehavior\LeafBehavior\Conditions\Dead\IsDeadCodiNode.cs" />
+     <Compile Include="Assets\Scripts\Game\Battle\Ai\AIBehavior\LeafBehavior\Conditions\Range\InChouhenRangeCodiNode.cs" />
+     <Compile Include="Assets\Scripts\Game\Battle\Ai\AIBehavior\LeafBehavior\Conditions\Range\InStartRangeCodiNode.cs" />
+     <Compile Include="Assets\Scripts\Game\Battle\Ai\AIBehavior\LeafBehavior\Conditions\Rotate\InRotateCodiNode.cs" />
+     <Compile Include="Assets\Scripts\Game\Battle\Attribute\AttributeMgr.cs" />
+     <Compile Include="Assets\Scripts\Game\Battle\BattleEngines\BattleEngine.cs" />
+     <Compile Include="Assets\Scripts\Game\Battle\BattleEngines\BigBattleEngine.cs" />
+     <Compile Include="Assets\Scripts\Game\Battle\BattleEngines\LianxiBattleEngine.cs" />
+     <Compile Include="Assets\Scripts\Game\Battle\BattleRender.cs" />
+     <Compile Include="Assets\Scripts\Game\Battle\BreakAndParalleMgr.cs" />
+     <Compile Include="Assets\Scripts\Game\Battle\Buff\AttriBuff\Buff_1001.cs" />
+     <Compile Include="Assets\Scripts\Game\Battle\Buff\AttriBuff\Buff_1101.cs" />
+     <Compile Include="Assets\Scripts\Game\Battle\Buff\AttriBuff\Buff_1111.cs" />
+     <Compile Include="Assets\Scripts\Game\Battle\Buff\AttriBuff\Buff_1121.cs" />
+     <Compile Include="Assets\Scripts\Game\Battle\Buff\AttriBuff\Buff_1131.cs" />
+     <Compile Include="Assets\Scripts\Game\Battle\Buff\AttriBuff\Buff_1601.cs" />
+     <Compile Include="Assets\Scripts\Game\Battle\Buff\AttriBuff\Buff_1701.cs" />
+     <Compile Include="Assets\Scripts\Game\Battle\Buff\AttriBuff\Buff_1711.cs" />
+     <Compile Include="Assets\Scripts\Game\Battle\Buff\AttriBuff\Buff_1721.cs" />
+     <Compile Include="Assets\Scripts\Game\Battle\Buff\AttriBuff\Buff_1731.cs" />
+     <Compile Include="Assets\Scripts\Game\Battle\Buff\AttriBuff\Buff_Add.cs" />
+     <Compile Include="Assets\Scripts\Game\Battle\Buff\AttriBuff\Buff_damage.cs" />
+     <Compile Include="Assets\Scripts\Game\Battle\Buff\BuffBase.cs" />
+     <Compile Include="Assets\Scripts\Game\Battle\Buff\BuffGuangquan\BuffGuangquan.cs" />
+     <Compile Include="Assets\Scripts\Game\Battle\Buff\BuffGuangquan\Buff_9001.cs" />
+     <Compile Include="Assets\Scripts\Game\Battle\Buff\BuffMgr.cs" />
+     <Compile Include="Assets\Scripts\Game\Battle\Buff\EquipBuff\BuffEquip_Bullet.cs" />
+     <Compile Include="Assets\Scripts\Game\Battle\Buff\EquipBuff\BuffEquip_hitBuff.cs" />
+     <Compile Include="Assets\Scripts\Game\Battle\Buff\EquipBuff\Buff_1901.cs" />
+     <Compile Include="Assets\Scripts\Game\Battle\Buff\EquipBuff\Buff_1902.cs" />
+     <Compile Include="Assets\Scripts\Game\Battle\Buff\EquipBuff\Buff_1903.cs" />
+     <Compile Include="Assets\Scripts\Game\Battle\Buff\EquipBuff\Buff_1904.cs" />
+     <Compile Include="Assets\Scripts\Game\Battle\Buff\EquipBuff\Buff_1905.cs" />
+     <Compile Include="Assets\Scripts\Game\Battle\Buff\EquipBuff\Buff_1906.cs" />
+     <Compile Include="Assets\Scripts\Game\Battle\Buff\EquipBuff\Buff_1907.cs" />
+     <Compile Include="Assets\Scripts\Game\Battle\Buff\EquipBuff\Buff_1908.cs" />
+     <Compile Include="Assets\Scripts\Game\Battle\Buff\EquipBuff\Buff_Equip.cs" />
+     <Compile Include="Assets\Scripts\Game\Battle\Bullet\Bullet.cs" />
+     <Compile Include="Assets\Scripts\Game\Battle\Bullet\BulletFreezeMono.cs" />
+     <Compile Include="Assets\Scripts\Game\Battle\Bullet\BulletLineMono.cs" />
+     <Compile Include="Assets\Scripts\Game\Battle\Bullet\BulletMgr.cs" />
+     <Compile Include="Assets\Scripts\Game\Battle\Bullet\BulletMono.cs" />
+     <Compile Include="Assets\Scripts\Game\Battle\Bullet\Bullet_10001.cs" />
+     <Compile Include="Assets\Scripts\Game\Battle\Bullet\Bullet_10003.cs" />
+     <Compile Include="Assets\Scripts\Game\Battle\Bullet\Bullet_10004.cs" />
+     <Compile Include="Assets\Scripts\Game\Battle\Bullet\Bullet_10005.cs" />
+     <Compile Include="Assets\Scripts\Game\Battle\Bullet\Bullet_10006.cs" />
+     <Compile Include="Assets\Scripts\Game\Battle\Bullet\Bullet_10007.cs" />
+     <Compile Include="Assets\Scripts\Game\Battle\Bullet\Bullet_10008.cs" />
+     <Compile Include="Assets\Scripts\Game\Battle\Bullet\Bullet_10009.cs" />
+     <Compile Include="Assets\Scripts\Game\Battle\Bullet\Bullet_30001.cs" />
+     <Compile Include="Assets\Scripts\Game\Battle\Bullet\Bullet_30002.cs" />
+     <Compile Include="Assets\Scripts\Game\Battle\Skill\SkillBase.cs" />
+     <Compile Include="Assets\Scripts\Game\Battle\Skill\SkillComp\AttackSkill\AttackSkill.cs" />
+     <Compile Include="Assets\Scripts\Game\Battle\Skill\SkillComp\AttackSkill\Skill_10001.cs" />
+     <Compile Include="Assets\Scripts\Game\Battle\Skill\SkillComp\AttackSkill\Skill_10003.cs" />
+     <Compile Include="Assets\Scripts\Game\Battle\Skill\SkillComp\AttackSkill\Skill_30001.cs" />
+     <Compile Include="Assets\Scripts\Game\Battle\Skill\SkillComp\AttackSkill\Skill_30002.cs" />
+     <Compile Include="Assets\Scripts\Game\Battle\Skill\SkillComp\AttackSkill\Skill_FourAtk.cs" />
+     <Compile Include="Assets\Scripts\Game\Battle\Skill\SkillComp\CrashSkill\CrashSkill.cs" />
+     <Compile Include="Assets\Scripts\Game\Battle\Skill\SkillComp\CrashSkill\Skill_70001.cs" />
+     <Compile Include="Assets\Scripts\Game\Battle\Skill\SkillComp\JumpSkill\JumpSkill.cs" />
+     <Compile Include="Assets\Scripts\Game\Battle\Skill\SkillComp\JumpSkill\Skill_80001.cs" />
+     <Compile Include="Assets\Scripts\Game\Battle\Skill\SkillComp\MoveSkill\MoveSkill.cs" />
+     <Compile Include="Assets\Scripts\Game\Battle\Skill\SkillComp\MoveSkill\Skill_73001.cs" />
+     <Compile Include="Assets\Scripts\Game\Battle\Skill\SkillComp\buffSkill\BuffSkill.cs" />
+     <Compile Include="Assets\Scripts\Game\Battle\Skill\SkillComp\buffSkill\Skill_10002.cs" />
+     <Compile Include="Assets\Scripts\Game\Battle\Skill\SkillMgr.cs" />
+     <Compile Include="Assets\Scripts\Game\Camera\BaseCamera.cs" />
+     <Compile Include="Assets\Scripts\Game\Camera\CameraMgr.cs" />
+     <Compile Include="Assets\Scripts\Game\Camera\ThirdCamera.cs" />
+     <Compile Include="Assets\Scripts\Game\Data\BaseConfig.cs" />
+     <Compile Include="Assets\Scripts\Game\Data\BinData\ModelInfo.cs" />
+     <Compile Include="Assets\Scripts\Game\Data\BinDataMgr.cs" />
+     <Compile Include="Assets\Scripts\Game\Data\BuffConfig.cs" />
+     <Compile Include="Assets\Scripts\Game\Data\BulletConfig.cs" />
+     <Compile Include="Assets\Scripts\Game\Data\CharactorConfig.cs" />
+     <Compile Include="Assets\Scripts\Game\Data\ConfigMgr.cs" />
+     <Compile Include="Assets\Scripts\Game\Data\ConfigTool.cs" />
+     <Compile Include="Assets\Scripts\Game\Data\EquipConfig.cs" />
+     <Compile Include="Assets\Scripts\Game\Data\HeroConfig.cs" />
+     <Compile Include="Assets\Scripts\Game\Data\HeroSkillConfig.cs" />
+     <Compile Include="Assets\Scripts\Game\Data\LanguageConfig.cs" />
+     <Compile Include="Assets\Scripts\Game\Data\LevelShuxinConfig.cs" />
+     <Compile Include="Assets\Scripts\Game\Data\SkillConfig.cs" />
+     <Compile Include="Assets\Scripts\Game\Data\SysData\BuffVo.cs" />
+     <Compile Include="Assets\Scripts\Game\Data\SysData\BulletVo.cs" />
+     <Compile Include="Assets\Scripts\Game\Data\SysData\CharactorVo.cs" />
+     <Compile Include="Assets\Scripts\Game\Data\SysData\EquipVo.cs" />
+     <Compile Include="Assets\Scripts\Game\Data\SysData\HeroSkillVo.cs" />
+     <Compile Include="Assets\Scripts\Game\Data\SysData\HeroVo.cs" />
+     <Compile Include="Assets\Scripts\Game\Data\SysData\LanguageVo.cs" />
+     <Compile Include="Assets\Scripts\Game\Data\SysData\LevelShuxinVo.cs" />
+     <Compile Include="Assets\Scripts\Game\Data\SysData\SKillVo.cs" />
+     <Compile Include="Assets\Scripts\Game\Data\SysData\itemVo.cs" />
+     <Compile Include="Assets\Scripts\Game\Effect\Effect.cs" />
+     <Compile Include="Assets\Scripts\Game\Effect\EffectMgr.cs" />
+     <Compile Include="Assets\Scripts\Game\Entities\AnimCtrl.cs" />
+     <Compile Include="Assets\Scripts\Game\Entities\AnimationCtrl.cs" />
+     <Compile Include="Assets\Scripts\Game\Entities\AnimatorCtrl.cs" />
+     <Compile Include="Assets\Scripts\Game\Entities\BaseModel.cs" />
+     <Compile Include="Assets\Scripts\Game\Entities\Build\BuildEntity.cs" />
+     <Compile Include="Assets\Scripts\Game\Entities\Build\BuildModel.cs" />
+     <Compile Include="Assets\Scripts\Game\Entities\Build\Tree\TreeEntity.cs" />
+     <Compile Include="Assets\Scripts\Game\Entities\Build\Tree\TreeModel.cs" />
+     <Compile Include="Assets\Scripts\Game\Entities\Entity.cs" />
+     <Compile Include="Assets\Scripts\Game\Entities\EntityMgr.cs" />
+     <Compile Include="Assets\Scripts\Game\Entities\EntityType.cs" />
+     <Compile Include="Assets\Scripts\Game\Entities\Player\ActMoveCtrl.cs" />
+     <Compile Include="Assets\Scripts\Game\Entities\Player\BattlePlayerEntity.cs" />
+     <Compile Include="Assets\Scripts\Game\Entities\Player\Loli\LoliAnimatorCtrl.cs" />
+     <Compile Include="Assets\Scripts\Game\Entities\Player\Loli\LoliBattleEntity.cs" />
+     <Compile Include="Assets\Scripts\Game\Entities\Player\Loli\LoliModel.cs" />
+     <Compile Include="Assets\Scripts\Game\Entities\Player\PlayerEntity.cs" />
+     <Compile Include="Assets\Scripts\Game\Entities\Player\PlayerModel.cs" />
+     <Compile Include="Assets\Scripts\Game\Entities\Player\SantouLang\SanLangAnimatorCtrl.cs" />
+     <Compile Include="Assets\Scripts\Game\Entities\Player\SantouLang\SanLangBattleEntity.cs" />
+     <Compile Include="Assets\Scripts\Game\Entities\Player\SantouLang\SanLangModel.cs" />
+     <Compile Include="Assets\Scripts\Game\GameData\GameEntityData\GameEntityData.cs" />
+     <Compile Include="Assets\Scripts\Game\GameData\GamePlayer.cs" />
+     <Compile Include="Assets\Scripts\Game\GameData\GamePlayerItem\EquipItemInfo.cs" />
+     <Compile Include="Assets\Scripts\Game\GameData\GamePlayerItem\GamePlayerItem.cs" />
+     <Compile Include="Assets\Scripts\Game\GameData\GamePlayerItem\XiaohaoItemInfo.cs" />
+     <Compile Include="Assets\Scripts\Game\GameGlobals.cs" />
+     <Compile Include="Assets\Scripts\Game\GameStart.cs" />
+     <Compile Include="Assets\Scripts\Game\Input\InputController.cs" />
+     <Compile Include="Assets\Scripts\Game\Input\InputMgr.cs" />
+     <Compile Include="Assets\Scripts\Game\Mono\ParticleScaler.cs" />
+     <Compile Include="Assets\Scripts\Game\Mono\PrefabLightmapData.cs" />
+     <Compile Include="Assets\Scripts\Game\Mono\PrefabLightmapDatas.cs" />
+     <Compile Include="Assets\Scripts\Game\Mono\Scene\SceneMono\BaseSceAndNodeInfo.cs" />
+     <Compile Include="Assets\Scripts\Game\Mono\Scene\SceneMono\BaseSceneMono.cs" />
+     <Compile Include="Assets\Scripts\Game\Mono\Scene\SceneMono\SceneMonoEntity\BaseSceMoEntity.cs" />
+     <Compile Include="Assets\Scripts\Game\Mono\Scene\SceneMono\SceneMonoEntity\MyPlayerEntityMono.cs" />
+     <Compile Include="Assets\Scripts\Game\Mono\Scene\SceneMono\SceneMonoEntity\ZhongliPlayerEntityMono.cs" />
+     <Compile Include="Assets\Scripts\Game\Mono\UIAction\EventTriggerListener.cs" />
+     <Compile Include="Assets\Scripts\Game\Mono\UIAction\FollowText.cs" />
+     <Compile Include="Assets\Scripts\Game\Mono\UIAction\MoveToCamera.cs" />
+     <Compile Include="Assets\Scripts\Game\Mono\UIAction\SliderImage.cs" />
+     <Compile Include="Assets\Scripts\Game\Mono\UIAction\UIScaleToWidth.cs" />
+     <Compile Include="Assets\Scripts\Game\Mono\UIAnimation\UISpriteAnim.cs" />
+     <Compile Include="Assets\Scripts\Game\Mono\UIAnimation\UISpriteAnim_Loop.cs" />
+     <Compile Include="Assets\Scripts\Game\Mono\UIAnimation\UISpriteAnim_Once.cs" />
+     <Compile Include="Assets\Scripts\Game\Mono\UIAnimation\UISpriteAnim_play.cs" />
+     <Compile Include="Assets\Scripts\Game\Rtt\RttModel.cs" />
+     <Compile Include="Assets\Scripts\Game\Rtt\RttPlayerModel.cs" />
+     <Compile Include="Assets\Scripts\Game\Scene\BattleScene.cs" />
+     <Compile Include="Assets\Scripts\Game\Scene\BigBattleScene.cs" />
+     <Compile Include="Assets\Scripts\Game\Scene\GameScene.cs" />
+     <Compile Include="Assets\Scripts\Game\Scene\LianxiBattleScene.cs" />
+     <Compile Include="Assets\Scripts\Game\Scene\LoginScene.cs" />
+     <Compile Include="Assets\Scripts\Game\Scene\RoomScene.cs" />
+     <Compile Include="Assets\Scripts\Game\Scene\SceneAStar\AStarPathMgr.cs" />
+     <Compile Include="Assets\Scripts\Game\Scene\SceneMgr.cs" />
+     <Compile Include="Assets\Scripts\Game\Scene\SelectHeroScene.cs" />
+     <Compile Include="Assets\Scripts\Game\UI\BasePanel.cs" />
+     <Compile Include="Assets\Scripts\Game\UI\Battle\BattlePanel.cs" />
+     <Compile Include="Assets\Scripts\Game\UI\Battle\HeroBuffIcon.cs" />
+     <Compile Include="Assets\Scripts\Game\UI\Battle\HeroHeadBatIcon.cs" />
+     <Compile Include="Assets\Scripts\Game\UI\DescPanel.cs" />
+     <Compile Include="Assets\Scripts\Game\UI\HeroInfoPanel\HeroHeadPanel.cs" />
+     <Compile Include="Assets\Scripts\Game\UI\HeroInfoPanel\HeroInfoPanel.cs" />
+     <Compile Include="Assets\Scripts\Game\UI\LoadingPanel.cs" />
+     <Compile Include="Assets\Scripts\Game\UI\Login\LoginPanel.cs" />
+     <Compile Include="Assets\Scripts\Game\UI\Room\RoomBtn.cs" />
+     <Compile Include="Assets\Scripts\Game\UI\Room\RoomPanel.cs" />
+     <Compile Include="Assets\Scripts\Game\UI\SelectHero\SelectHeroLogic.cs" />
+     <Compile Include="Assets\Scripts\Game\UI\SelectHero\SelectHeroPanel.cs" />
+     <Compile Include="Assets\Scripts\Game\UI\Team\EquipIcon.cs" />
+     <Compile Include="Assets\Scripts\Game\UI\Team\SkillIcon.cs" />
+     <Compile Include="Assets\Scripts\Game\UI\Team\TeamInfoPanel.cs" />
+     <Compile Include="Assets\Scripts\Game\UI\Team\TeamPanel.cs" />
+     <Compile Include="Assets\Scripts\Game\UI\UIMgr.cs" />
+     <Compile Include="Assets\Scripts\Game\UI\UINode.cs" />
+     <Compile Include="Assets\Scripts\Game\UI\UIType.cs" />
+     <Compile Include="Assets\Scripts\Game\UI\WaitPanel.cs" />
+     <None Include="Assets\AbResTemp\SceneAreas\Yuka\Standard Assets\Shader\Unitychan_chara_eye.shader" />
+     <None Include="Assets\AbResTemp\SceneAreas\Z ! Voxel BlocksAssets\Standard Assets\Effects\GlassRefraction\Shaders\GlassStainedBumpDistort.shader" />
+     <None Include="Assets\AbResTemp\SceneAreas\Z ! Voxel BlocksAssets\Standard Assets\Effects\ImageEffects\Shaders\_BloomAndFlares\BlendOneOne.shader" />
+     <None Include="Assets\AbResTemp\SceneAreas\Z ! Voxel BlocksAssets\Standard Assets\Effects\ImageEffects\Shaders\NoiseEffectShaderRGB.shader" />
+     <None Include="Assets\AbResTemp\SceneAreas\Yuka\Standard Assets\Shader\Unitychan_chara_fuku.shader" />
+     <None Include="Assets\AbResTemp\SceneAreas\Z ! Voxel BlocksAssets\Standard Assets\Effects\ToonShading\Shaders\ToonBasic.shader" />
+     <None Include="Assets\AbResTemp\SceneAreas\Z ! Voxel BlocksAssets\Standard Assets\Effects\ImageEffects\Shaders\_DepthOfField\SeparableWeightedBlurDof34.shader" />
+     <None Include="Assets\Abres\Zero\XML\BinData\BigBattleScene_sceneInfo.xml" />
+     <None Include="Assets\AbResTemp\SceneAreas\hero\hero7\Standard Assets (Mobile)\Shaders\Vertex Colored Shaders\Mobile Transparent Vertex Color.shader" />
+     <None Include="Assets\AbResTemp\SceneAreas\MOBA and Tower Defense\info snow assets.txt" />
+     <None Include="Assets\AbResTemp\SceneAreas\Z ! Voxel BlocksAssets\Standard Assets\Effects\ImageEffects\Shaders\ShowAlphaChannel.shader" />
+     <None Include="Assets\AbResTemp\SceneAreas\Z ! Voxel BlocksAssets\Standard Assets\Effects\ImageEffects\Shaders\GlowConeTap.shader" />
+     <None Include="Assets\AbResTemp\SceneAreas\Z ! Voxel BlocksAssets\Standard Assets\Effects\ImageEffects\Shaders\SunShaftsComposite.shader" />
+     <None Include="Assets\AbResTemp\SceneAreas\Z ! Voxel BlocksAssets\Standard Assets\Effects\ImageEffects\Shaders\ColorCorrectionCurves.shader" />
+     <None Include="Assets\AbResTemp\SceneAreas\Z ! Voxel BlocksAssets\Standard Assets\Effects\ImageEffects\Shaders\ScreenSpaceAmbientObscurance.shader" />
+     <None Include="Assets\AbResTemp\SceneAreas\Z ! Voxel BlocksAssets\Standard Assets\Effects\ImageEffects\Shaders\_Antialiasing\NFAA.shader" />
+     <None Include="Assets\AbResTemp\SceneAreas\Z ! Voxel BlocksAssets\Standard Assets\Effects\ImageEffects\Shaders\_DepthOfField\TiltShiftHdrLensBlur.shader" />
+     <None Include="Assets\AbResTemp\SceneAreas\Z ! Voxel BlocksAssets\Standard Assets\Effects\ImageEffects\Shaders\_BloomAndFlares\VignetteShader.shader" />
+     <None Include="Assets\AbResTemp\SceneAreas\Z ! Voxel BlocksAssets\Standard Assets\Effects\ImageEffects\Shaders\_DepthOfField\DepthOfFieldScatter.shader" />
+     <None Include="Assets\Abres\Zero\XML\Config\LevelShuxinVo.xml" />
+     <None Include="Assets\AbResTemp\SceneAreas\Z ! Voxel BlocksAssets\Standard Assets\Effects\TessellationShaders\Shaders\BumpedSpecularSmooth.shader" />
+     <None Include="Assets\AbResTemp\SceneAreas\Z ! Voxel BlocksAssets\Standard Assets\Effects\Projectors\Guidelines.txt" />
+     <None Include="Assets\AbResTemp\SceneAreas\Z ! Voxel BlocksAssets\Standard Assets\Effects\ImageEffects\Shaders\MotionBlur.shader" />
+     <None Include="Assets\AbResTemp\SceneAreas\Z ! Voxel BlocksAssets\Standard Assets\Effects\ImageEffects\Shaders\_BloomAndFlares\MobileBloom.shader" />
+     <None Include="Assets\AbResTemp\SceneAreas\Z ! Voxel BlocksAssets\Standard Assets\Effects\ImageEffects\Shaders\GlowCompose.shader" />
+     <None Include="Assets\AbResTemp\SceneAreas\Yuka\Standard Assets\Shader\readme.txt" />
+     <None Include="Assets\AbResTemp\SceneAreas\Z ! Voxel BlocksAssets\Standard Assets\Effects\ImageEffects\Shaders\Contrast Stretch\MinMaxReduction.shader" />
+     <None Include="Assets\AbResTemp\SceneAreas\Z ! Voxel BlocksAssets\Standard Assets\Effects\ImageEffects\Shaders\_Antialiasing\SSAA.shader" />
+     <None Include="Assets\Abres\Zero\XML\Config\SKillVo.xml" />
+     <None Include="Assets\AbResTemp\SceneAreas\Z ! Voxel BlocksAssets\Standard Assets\Effects\ImageEffects\Shaders\RadialBlur.shader" />
+     <None Include="Assets\AbResTemp\SceneAreas\MOBA and Tower Defense\info.txt" />
+     <None Include="Assets\AbResTemp\SceneAreas\Z ! Voxel BlocksAssets\Standard Assets\Effects\ImageEffects\Shaders\_DepthOfField\DepthOfFieldDX11.shader" />
+     <None Include="Assets\AbResTemp\SceneAreas\Z ! Voxel BlocksAssets\Standard Assets\Effects\ImageEffects\Shaders\ContrastComposite.shader" />
+     <None Include="Assets\AbResTemp\SceneAreas\Z ! Voxel BlocksAssets\Standard Assets\Effects\ImageEffects\Shaders\_Antialiasing\FXAAPreset3.shader" />
+     <None Include="Assets\AbResTemp\SceneAreas\Z ! Voxel BlocksAssets\Standard Assets\Effects\ImageEffects\Shaders\FisheyeShader.shader" />
+     <None Include="Assets\AbResTemp\SceneAreas\Z ! Voxel BlocksAssets\Standard Assets\Effects\ImageEffects\Shaders\Contrast Stretch\Apply.shader" />
+     <None Include="Assets\AbResTemp\SceneAreas\MOBA and Tower Defense\Standard Assets\Environment\Water\Water4\Shaders\FXWater4Simple.shader" />
+     <None Include="Assets\AbResTemp\SceneAreas\Z ! Voxel BlocksAssets\Standard Assets\Effects\ImageEffects\Shaders\frag_ao.cginc" />
+     <None Include="Assets\AbResTemp\SceneAreas\Yuka\Standard Assets\Shader\Unitychan_chara_fuku_ds.shader" />
+     <None Include="Assets\AbResTemp\SceneAreas\Yuka\README.txt" />
+     <None Include="Assets\AbResTemp\SceneAreas\Z ! Voxel BlocksAssets\Standard Assets\Effects\ToonShading\Shaders\ToonBasicOutline.shader" />
+     <None Include="Assets\AbResTemp\SceneAreas\Yuka\Standard Assets\Shader\Unitychan_chara_eye_blend.shader" />
+     <None Include="Assets\AbResTemp\SceneAreas\Z ! Voxel BlocksAssets\Standard Assets\Effects\ImageEffects\Shaders\_DepthOfField\DepthOfField34.shader" />
+     <None Include="Assets\AbResTemp\SceneAreas\Yuka\Standard Assets\Shader\Unitychan_chara_hair_ds.shader" />
+     <None Include="Assets\AbResTemp\SceneAreas\Z ! Voxel BlocksAssets\Standard Assets\Effects\ImageEffects\Shaders\_BloomAndFlares\MobileBlur.shader" />
+     <None Include="Assets\AbResTemp\SceneAreas\Z ! Voxel BlocksAssets\Standard Assets\Effects\ImageEffects\Shaders\SSAOShader.shader" />
+     <None Include="Assets\AbResTemp\SceneAreas\Z ! Voxel BlocksAssets\Standard Assets\Effects\ImageEffects\Shaders\ConvertDepth.shader" />
+     <None Include="Assets\AbResTemp\SceneAreas\Z ! Voxel BlocksAssets\Standard Assets\Effects\ImageEffects\Shaders\ColorCorrectionCurvesSimple.shader" />
+     <None Include="Assets\AbResTemp\SceneAreas\Z ! Voxel BlocksAssets\Standard Assets\Effects\ImageEffects\Shaders\NoiseEffectShaderYUV.shader" />
+     <None Include="Assets\AbResTemp\SceneAreas\Yuka\Standard Assets\Shader\Unitychan_chara_akarami_blend.shader" />
+     <None Include="Assets\AbResTemp\SceneAreas\Z ! Voxel BlocksAssets\Standard Assets\Effects\ImageEffects\Shaders\GlowEffectDownsample.shader" />
+     <None Include="Assets\AbResTemp\SceneAreas\Z ! Voxel BlocksAssets\Standard Assets\Effects\ImageEffects\Shaders\CreaseApply.shader" />
+     <None Include="Assets\AbResTemp\SceneAreas\MOBA and Tower Defense\Standard Assets\Environment\Water (Basic)\Shaders\FXWaterBasic.shader" />
+     <None Include="Assets\Abres\Zero\XML\Config\LanguageVo.xml" />
+     <None Include="Assets\AbResTemp\SceneAreas\Z ! Voxel BlocksAssets\Standard Assets\Effects\ImageEffects\Shaders\ChromaticAberrationShader.shader" />
+     <None Include="Assets\AbResTemp\SceneAreas\Z ! Voxel BlocksAssets\Standard Assets\Effects\ImageEffects\Shaders\GlobalFog.shader" />
+     <None Include="Assets\AbResTemp\SceneAreas\Z ! Voxel BlocksAssets\Standard Assets\Effects\ToonShading\Shaders\ToonLitOutline.shader" />
+     <None Include="Assets\AbResTemp\SceneAreas\Yuka\Standard Assets\Shader\Unitychan_chara_hair.shader" />
+     <None Include="Assets\AbResTemp\SceneAreas\Z ! Voxel BlocksAssets\Standard Assets\Effects\ImageEffects\Shaders\Contrast Stretch\Luminance.shader" />
+     <None Include="Assets\AbResTemp\SceneAreas\Z ! Voxel BlocksAssets\Standard Assets\Effects\ToonShading\Shaders\ToonLit.shader" />
+     <None Include="Assets\AbResTemp\SceneAreas\Z ! Voxel BlocksAssets\Standard Assets\Effects\ImageEffects\Shaders\ColorCorrectionSelective.shader" />
+     <None Include="Assets\AbResTemp\SceneAreas\Z ! Voxel BlocksAssets\Standard Assets\Effects\ImageEffects\Shaders\_DepthOfField\Bokeh34.shader" />
+     <None Include="Assets\AbResTemp\SceneAreas\Yuka\Standard Assets\Shader\Unitychan_chara_eyelash_blend.shader" />
+     <None Include="Assets\AbResTemp\SceneAreas\Z ! Voxel BlocksAssets\Standard Assets\Effects\ImageEffects\Shaders\CameraMotionBlurDX11.shader" />
+     <None Include="Assets\AbResTemp\SceneAreas\Z ! Voxel BlocksAssets\Standard Assets\Effects\ImageEffects\Shaders\_BloomAndFlares\SeparableBlurPlus.shader" />
+     <None Include="Assets\AbResTemp\SceneAreas\Z ! Voxel BlocksAssets\Standard Assets\Effects\Projectors\Shaders\ProjectorLight.shader" />
+     <None Include="Assets\AbResTemp\SceneAreas\Z ! Voxel BlocksAssets\Standard Assets\Effects\ImageEffects\Shaders\_BloomAndFlares\MultiPassHollywoodFlares.shader" />
+     <None Include="Assets\AbResTemp\SceneAreas\Z ! Voxel BlocksAssets\Standard Assets\Effects\ImageEffects\Shaders\BlurEffectConeTaps.shader" />
+     <None Include="Assets\AbResTemp\SceneAreas\Z ! Voxel BlocksAssets\Standard Assets\Effects\ImageEffects\Shaders\CameraMotionBlur.shader" />
+     <None Include="Assets\AbResTemp\SceneAreas\MOBA and Tower Defense\Standard Assets\Environment\Water\Water\Shaders\FXWaterPro.shader" />
+     <None Include="Assets\AbResTemp\SceneAreas\Z ! Voxel BlocksAssets\Standard Assets\Effects\ImageEffects\Shaders\_Antialiasing\DLAA.shader" />
+     <None Include="Assets\AbResTemp\SceneAreas\Z ! Voxel BlocksAssets\Standard Assets\Effects\ImageEffects\Shaders\NoiseAndGrainDX11.shader" />
+     <None Include="Assets\Abres\Zero\XML\Config\CharactorVo.xml" />
+     <None Include="Assets\Abres\Zero\XML\Config\BulletVo.xml" />
+     <None Include="Assets\AbResTemp\SceneAreas\Yuka\Standard Assets\Shader\Unitychan_chara_hada.shader" />
+     <None Include="Assets\Abres\Zero\XML\BinData\ModelInfo.xml" />
+     <None Include="Assets\AbResTemp\SceneAreas\Z ! Voxel BlocksAssets\Standard Assets\Effects\ImageEffects\Shaders\_BloomAndFlares\BrightPassFilter2.shader" />
+     <None Include="Assets\AbResTemp\SceneAreas\Z ! Voxel BlocksAssets\Standard Assets\Effects\ImageEffects\Shaders\_DepthOfField\SeparableBlur.shader" />
+     <None Include="Assets\AbResTemp\SceneAreas\Z ! Voxel BlocksAssets\Standard Assets\Effects\ImageEffects\Shaders\MotionBlurClear.shader" />
+     <None Include="Assets\AbResTemp\SceneAreas\Z ! Voxel BlocksAssets\Standard Assets\Effects\ImageEffects\Shaders\ColorCorrectionEffect.shader" />
+     <None Include="Assets\AbResTemp\SceneAreas\Z ! Voxel BlocksAssets\Standard Assets\Effects\ImageEffects\Shaders\GrayscaleEffect.shader" />
+     <None Include="Assets\AbResTemp\SceneAreas\Z ! Voxel BlocksAssets\Standard Assets\Effects\ImageEffects\Shaders\SepiaToneEffect.shader" />
+     <None Include="Assets\AbResTemp\SceneAreas\Z ! Voxel BlocksAssets\Standard Assets\Effects\ImageEffects\Shaders\TwirlEffect.shader" />
+     <None Include="Assets\AbResTemp\SceneAreas\Z ! Voxel BlocksAssets\Standard Assets\Effects\ImageEffects\Shaders\VortexEffect.shader" />
+     <None Include="Assets\Abres\Zero\XML\Config\EquipVo.xml" />
+     <None Include="Assets\AbResTemp\SceneAreas\Z ! Voxel BlocksAssets\Standard Assets\Effects\ImageEffects\Shaders\Contrast Stretch\Adaptation.shader" />
+     <None Include="Assets\AbResTemp\SceneAreas\Yuka\Standard Assets\Shader\Unitychan_chara_hada_blend.shader" />
+     <None Include="Assets\AbResTemp\SceneAreas\Z ! Voxel BlocksAssets\Standard Assets\Effects\ImageEffects\Shaders\NoiseAndGrain.shader" />
+     <None Include="Assets\Abres\Zero\XML\Config\BuffVo.xml" />
+     <None Include="Assets\AbResTemp\SceneAreas\Z ! Voxel BlocksAssets\test\KaToon.shader" />
+     <None Include="Assets\AbResTemp\SceneAreas\Z ! Voxel BlocksAssets\Standard Assets\Effects\Projectors\Shaders\ProjectorMultiply.shader" />
+     <None Include="Assets\AbResTemp\SceneAreas\Z ! Voxel BlocksAssets\Standard Assets\Effects\ImageEffects\Shaders\VignettingShader.shader" />
+     <None Include="Assets\AbResTemp\SceneAreas\Z ! Voxel BlocksAssets\Standard Assets\Effects\ImageEffects\Shaders\Tonemapper.shader" />
+     <None Include="Assets\AbResTemp\SceneAreas\Z ! Voxel BlocksAssets\Standard Assets\Effects\ImageEffects\Shaders\_BloomAndFlares\BrightPassFilter.shader" />
+     <None Include="Assets\AbResTemp\SceneAreas\Z ! Voxel BlocksAssets\Standard Assets\Effects\ImageEffects\Shaders\_Antialiasing\FXAA2.shader" />
+     <None Include="Assets\Abres\Zero\XML\Config\HeroSkillVo.xml" />
+     <None Include="Assets\AbResTemp\SceneAreas\Z ! Voxel BlocksAssets\Standard Assets\Effects\ImageEffects\Shaders\ColorCorrection3DLut.shader" />
+     <None Include="Assets\AbResTemp\SceneAreas\Z ! Voxel BlocksAssets\Standard Assets\Effects\ImageEffects\Shaders\_BloomAndFlares\LensFlareCreate.shader" />
+     <None Include="Assets\AbResTemp\SceneAreas\Z ! Voxel BlocksAssets\Standard Assets\Effects\ImageEffects\Shaders\EdgeDetectNormals.shader" />
+     <None Include="Assets\Abres\Zero\XML\Config\HeroVo.xml" />
+     <None Include="Assets\AbResTemp\SceneAreas\Z ! Voxel BlocksAssets\Standard Assets\Effects\ImageEffects\Shaders\PrepareSunShaftsBlur.shader" />
+     <None Include="Assets\AbResTemp\SceneAreas\Z ! Voxel BlocksAssets\Standard Assets\Effects\ImageEffects\Shaders\_BloomAndFlares\Blend.shader" />
+     <None Include="Assets\AbResTemp\SceneAreas\Z ! Voxel BlocksAssets\Standard Assets\Effects\ImageEffects\Shaders\BlendModesOverlay.shader" />
+     <None Include="Assets\AbResTemp\SceneAreas\MOBA and Tower Defense\Standard Assets\Environment\Water\Water4\Shaders\WaterInclude.cginc" />
+     <None Include="Assets\AbResTemp\SceneAreas\MOBA and Tower Defense\Standard Assets\Environment\Water\Water4\Shaders\FXWater4Advanced.shader" />
+     <None Include="Assets\AbResTemp\SceneAreas\Z ! Voxel BlocksAssets\Standard Assets\Effects\ImageEffects\Shaders\SimpleClear.shader" />
+     <None Include="Assets\Abres\Zero\XML\Config\itemVo.xml" />
+     <None Include="Assets\AbResTemp\SceneAreas\Z ! Voxel BlocksAssets\Standard Assets\Effects\TessellationShaders\Shaders\BumpedSpecularDisplacement.shader" />
+     <None Include="Assets\AbResTemp\说明.txt" />
+     <None Include="Assets\AbResTemp\SceneAreas\Z ! Voxel BlocksAssets\Standard Assets\Effects\ImageEffects\Shaders\_Antialiasing\FXAA3Console.shader" />
+     <None Include="Assets\Abres\Zero\XML\BinData\BigBattleScene_entityinfo.xml" />
+     <None Include="Assets\AbResTemp\SceneAreas\Z ! Voxel BlocksAssets\Standard Assets\Effects\ImageEffects\Shaders\_Antialiasing\FXAAPreset2.shader" />
+     <None Include="Assets\AbResTemp\SceneAreas\Z ! Voxel BlocksAssets\Standard Assets\Effects\ImageEffects\Shaders\_BloomAndFlares\BlurAndFlares.shader" />
+     <None Include="Assets\AbResTemp\SceneAreas\Z ! Voxel BlocksAssets\Standard Assets\Effects\ImageEffects\Shaders\_BloomAndFlares\BlendForBloom.shader" />
+ <Reference Include="UnityEngine.UI">
+ <HintPath>E:/工作学习/unity/Editor/Data/UnityExtensions/Unity/GUISystem/UnityEngine.UI.dll</HintPath>
+ </Reference>
+ <Reference Include="UnityEngine.Networking">
+ <HintPath>E:/工作学习/unity/Editor/Data/UnityExtensions/Unity/Networking/UnityEngine.Networking.dll</HintPath>
+ </Reference>
+ <Reference Include="UnityEngine.PlaymodeTestsRunner">
+ <HintPath>E:/工作学习/unity/Editor/Data/UnityExtensions/Unity/PlaymodeTestsRunner/UnityEngine.PlaymodeTestsRunner.dll</HintPath>
+ </Reference>
+ <Reference Include="UnityEngine.Analytics">
+ <HintPath>E:/工作学习/unity/Editor/Data/UnityExtensions/Unity/UnityAnalytics/UnityEngine.Analytics.dll</HintPath>
+ </Reference>
+ <Reference Include="UnityEngine.HoloLens">
+ <HintPath>E:/工作学习/unity/Editor/Data/UnityExtensions/Unity/UnityHoloLens/RuntimeEditor/UnityEngine.HoloLens.dll</HintPath>
+ </Reference>
+ <Reference Include="UnityEngine.VR">
+ <HintPath>E:/工作学习/unity/Editor/Data/UnityExtensions/Unity/UnityVR/RuntimeEditor/UnityEngine.VR.dll</HintPath>
+ </Reference>
+ <Reference Include="Excel">
+ <HintPath>E:/工作学习/unityproject/New Unity Project/Assets/AbResTemp/u3d-Excel/Excel.dll</HintPath>
+ </Reference>
+ <Reference Include="ICSharpCode.SharpZipLib">
+ <HintPath>E:/工作学习/unityproject/New Unity Project/Assets/AbResTemp/u3d-Excel/ICSharpCode.SharpZipLib.dll</HintPath>
+ </Reference>
+ <Reference Include="System.Data">
+ <HintPath>E:/工作学习/unityproject/New Unity Project/Assets/AbResTemp/u3d-Excel/System.Data.dll</HintPath>
+ </Reference>
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="Assembly-CSharp-firstpass.csproj">
+      <Project>{79391AC5-8752-B4CC-F33F-BB9EB1094377}</Project>      <Name>Assembly-CSharp-firstpass</Name>    </ProjectReference>
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+  
+</Project>

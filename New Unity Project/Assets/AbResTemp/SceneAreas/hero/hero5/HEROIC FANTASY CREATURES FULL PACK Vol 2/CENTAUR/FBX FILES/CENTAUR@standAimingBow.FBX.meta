@@ -1,0 +1,244 @@
+fileFormatVersion: 2
+guid: e3a5ff53af339b54aaa0e5eef7843edd
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: CENTAUR_
+    100004: CENTAUR_ Head
+    100006: CENTAUR_ L Calf
+    100008: CENTAUR_ L Clavicle
+    100010: CENTAUR_ L Finger0
+    100012: CENTAUR_ L Foot
+    100014: CENTAUR_ L Forearm
+    100016: CENTAUR_ L Hand
+    100018: CENTAUR_ L HorseLink
+    100020: CENTAUR_ L Thigh
+    100022: CENTAUR_ L UpperArm
+    100024: CENTAUR_ Neck
+    100026: CENTAUR_ Neck1
+    100028: CENTAUR_ Neck2
+    100030: CENTAUR_ Neck3
+    100032: CENTAUR_ Pelvis
+    100034: CENTAUR_ Queue de cheval 1
+    100036: CENTAUR_ R Calf
+    100038: CENTAUR_ R Clavicle
+    100040: CENTAUR_ R Finger0
+    100042: CENTAUR_ R Foot
+    100044: CENTAUR_ R Forearm
+    100046: CENTAUR_ R Hand
+    100048: CENTAUR_ R HorseLink
+    100050: CENTAUR_ R Thigh
+    100052: CENTAUR_ R UpperArm
+    100054: CENTAUR_ Spine
+    100056: CENTAUR_ Spine1
+    100058: CENTAUR_ Spine2
+    100060: CENTAUR_ Tail
+    100062: CENTAUR_ Tail1
+    100064: CENTAUR_ Tail2
+    100066: CENTAUR_ Tail3
+    100068: CENTAUR_ Tail4
+    100070: CENTAUR_ARM_L
+    100072: CENTAUR_ARM_R
+    100074: CENTAUR_BOW_BOTTOM_CURVE_1
+    100076: CENTAUR_BOW_BOTTOM_CURVE_2
+    100078: CENTAUR_BOW_BOTTOM_CURVE_3
+    100080: CENTAUR_BOW_BOTTOM_CURVE_4
+    100082: CENTAUR_BOW_HANDLE
+    100084: CENTAUR_BOW_ROOT_
+    100086: CENTAUR_BOW_STRING
+    100088: CENTAUR_BOW_UP_CURVE_1
+    100090: CENTAUR_BOW_UP_CURVE_2
+    100092: CENTAUR_BOW_UP_CURVE_3
+    100094: CENTAUR_BOW_UP_CURVE_4
+    100096: CENTAUR_CLAVICLE_L
+    100098: CENTAUR_CLAVICLE_R
+    100100: CENTAUR_FINGER_L_0_A
+    100102: CENTAUR_FINGER_L_0_B
+    100104: CENTAUR_FINGER_L_0_C
+    100106: CENTAUR_FINGER_L_1_A
+    100108: CENTAUR_FINGER_L_1_B
+    100110: CENTAUR_FINGER_L_1_C
+    100112: CENTAUR_FINGER_L_2_A
+    100114: CENTAUR_FINGER_L_2_B
+    100116: CENTAUR_FINGER_L_2_C
+    100118: CENTAUR_FINGER_L_3_A
+    100120: CENTAUR_FINGER_L_3_B
+    100122: CENTAUR_FINGER_L_3_C
+    100124: CENTAUR_FINGER_L_4_A
+    100126: CENTAUR_FINGER_L_4_B
+    100128: CENTAUR_FINGER_L_4_C
+    100130: CENTAUR_FINGER_R_0_A
+    100132: CENTAUR_FINGER_R_0_B
+    100134: CENTAUR_FINGER_R_0_C
+    100136: CENTAUR_FINGER_R_1_A
+    100138: CENTAUR_FINGER_R_1_B
+    100140: CENTAUR_FINGER_R_1_C
+    100142: CENTAUR_FINGER_R_2_A
+    100144: CENTAUR_FINGER_R_2_B
+    100146: CENTAUR_FINGER_R_2_C
+    100148: CENTAUR_FINGER_R_3_A
+    100150: CENTAUR_FINGER_R_3_B
+    100152: CENTAUR_FINGER_R_3_C
+    100154: CENTAUR_FINGER_R_4_A
+    100156: CENTAUR_FINGER_R_4_B
+    100158: CENTAUR_FINGER_R_4_C
+    100160: CENTAUR_FOREARM_L
+    100162: CENTAUR_FOREARM_R
+    100164: CENTAUR_HAND_L
+    100166: CENTAUR_HAND_R
+    400000: //RootNode
+    400002: CENTAUR_
+    400004: CENTAUR_ Head
+    400006: CENTAUR_ L Calf
+    400008: CENTAUR_ L Clavicle
+    400010: CENTAUR_ L Finger0
+    400012: CENTAUR_ L Foot
+    400014: CENTAUR_ L Forearm
+    400016: CENTAUR_ L Hand
+    400018: CENTAUR_ L HorseLink
+    400020: CENTAUR_ L Thigh
+    400022: CENTAUR_ L UpperArm
+    400024: CENTAUR_ Neck
+    400026: CENTAUR_ Neck1
+    400028: CENTAUR_ Neck2
+    400030: CENTAUR_ Neck3
+    400032: CENTAUR_ Pelvis
+    400034: CENTAUR_ Queue de cheval 1
+    400036: CENTAUR_ R Calf
+    400038: CENTAUR_ R Clavicle
+    400040: CENTAUR_ R Finger0
+    400042: CENTAUR_ R Foot
+    400044: CENTAUR_ R Forearm
+    400046: CENTAUR_ R Hand
+    400048: CENTAUR_ R HorseLink
+    400050: CENTAUR_ R Thigh
+    400052: CENTAUR_ R UpperArm
+    400054: CENTAUR_ Spine
+    400056: CENTAUR_ Spine1
+    400058: CENTAUR_ Spine2
+    400060: CENTAUR_ Tail
+    400062: CENTAUR_ Tail1
+    400064: CENTAUR_ Tail2
+    400066: CENTAUR_ Tail3
+    400068: CENTAUR_ Tail4
+    400070: CENTAUR_ARM_L
+    400072: CENTAUR_ARM_R
+    400074: CENTAUR_BOW_BOTTOM_CURVE_1
+    400076: CENTAUR_BOW_BOTTOM_CURVE_2
+    400078: CENTAUR_BOW_BOTTOM_CURVE_3
+    400080: CENTAUR_BOW_BOTTOM_CURVE_4
+    400082: CENTAUR_BOW_HANDLE
+    400084: CENTAUR_BOW_ROOT_
+    400086: CENTAUR_BOW_STRING
+    400088: CENTAUR_BOW_UP_CURVE_1
+    400090: CENTAUR_BOW_UP_CURVE_2
+    400092: CENTAUR_BOW_UP_CURVE_3
+    400094: CENTAUR_BOW_UP_CURVE_4
+    400096: CENTAUR_CLAVICLE_L
+    400098: CENTAUR_CLAVICLE_R
+    400100: CENTAUR_FINGER_L_0_A
+    400102: CENTAUR_FINGER_L_0_B
+    400104: CENTAUR_FINGER_L_0_C
+    400106: CENTAUR_FINGER_L_1_A
+    400108: CENTAUR_FINGER_L_1_B
+    400110: CENTAUR_FINGER_L_1_C
+    400112: CENTAUR_FINGER_L_2_A
+    400114: CENTAUR_FINGER_L_2_B
+    400116: CENTAUR_FINGER_L_2_C
+    400118: CENTAUR_FINGER_L_3_A
+    400120: CENTAUR_FINGER_L_3_B
+    400122: CENTAUR_FINGER_L_3_C
+    400124: CENTAUR_FINGER_L_4_A
+    400126: CENTAUR_FINGER_L_4_B
+    400128: CENTAUR_FINGER_L_4_C
+    400130: CENTAUR_FINGER_R_0_A
+    400132: CENTAUR_FINGER_R_0_B
+    400134: CENTAUR_FINGER_R_0_C
+    400136: CENTAUR_FINGER_R_1_A
+    400138: CENTAUR_FINGER_R_1_B
+    400140: CENTAUR_FINGER_R_1_C
+    400142: CENTAUR_FINGER_R_2_A
+    400144: CENTAUR_FINGER_R_2_B
+    400146: CENTAUR_FINGER_R_2_C
+    400148: CENTAUR_FINGER_R_3_A
+    400150: CENTAUR_FINGER_R_3_B
+    400152: CENTAUR_FINGER_R_3_C
+    400154: CENTAUR_FINGER_R_4_A
+    400156: CENTAUR_FINGER_R_4_B
+    400158: CENTAUR_FINGER_R_4_C
+    400160: CENTAUR_FOREARM_L
+    400162: CENTAUR_FOREARM_R
+    400164: CENTAUR_HAND_L
+    400166: CENTAUR_HAND_R
+    7400000: Take 001
+    9500000: //RootNode
+    11100000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 0
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 2
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 0.01
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 1
+  humanoidOversampling: 1
+  additionalBone: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

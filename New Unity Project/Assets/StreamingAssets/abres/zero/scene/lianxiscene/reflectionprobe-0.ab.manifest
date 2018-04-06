@@ -1,0 +1,16 @@
+ManifestFileVersion: 0
+CRC: 3122756696
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: e9f3f78ad28a9bb4e7efe2086c706716
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: e2658f3a82ff5015cfac1043556e10e2
+HashAppended: 0
+ClassTypes:
+- Class: 89
+  Script: {instanceID: 0}
+Assets:
+- Assets/Abres/Zero/Scene/lianxiscene/ReflectionProbe-0.exr
+Dependencies: []

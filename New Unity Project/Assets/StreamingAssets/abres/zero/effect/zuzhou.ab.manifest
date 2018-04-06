@@ -1,0 +1,34 @@
+ManifestFileVersion: 0
+CRC: 711869276
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: ad9ffa6a0455204640b34376c116b32a
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: b6f8b079669025e04c96d22363b91f79
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 11500000, guid: e64811f42d79ea04995c4a38d4686d98, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+- Class: 198
+  Script: {instanceID: 0}
+- Class: 199
+  Script: {instanceID: 0}
+Assets:
+- Assets/Abres/Zero/effect/zuzhou.prefab
+Dependencies: []

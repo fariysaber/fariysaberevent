@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+guid: e8743ce0c3d819b4290907d1a00021d4
+timeCreated: 1509208368
+licenseType: Pro
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: FZSongHei-B07S
+  fontNames:
+  - SimHei
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: zero/font/simhei.ab
+  assetBundleVariant: 

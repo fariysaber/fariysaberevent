@@ -1,0 +1,18 @@
+ManifestFileVersion: 0
+CRC: 2480995223
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: bdb3e20d6cb9de0107d42e3c612d9d36
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: ef79b55503f0c3d1fd0e18e3bc5b391a
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+Assets:
+- Assets/Abres/Zero/Equip/baijian.prefab
+Dependencies: []

@@ -1,0 +1,14 @@
+ManifestFileVersion: 0
+CRC: 384746038
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: dd632f42677798b8e1edffa60f99e650
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 31d6cfe0d16ae931b73c59d7e0c089c0
+HashAppended: 0
+ClassTypes: []
+Assets:
+- Assets/Abres/Zero/Scene/selectheroscene.unity
+Dependencies: []

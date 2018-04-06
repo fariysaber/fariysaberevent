@@ -1,0 +1,18 @@
+ManifestFileVersion: 0
+CRC: 121235569
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: e17624bd2858d18ca8cf6835d988ae9a
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 31d6cfe0d16ae931b73c59d7e0c089c0
+HashAppended: 0
+ClassTypes: []
+Assets:
+- Assets/Abres/Zero/Scene/testscene.unity
+Dependencies:
+- "E:/\u5DE5\u4F5C\u5B66\u4E60/unityproject/New Unity Project/Assets/StreamingAssets/abres/zero/scene/materials/lantern.ab"
+- "E:/\u5DE5\u4F5C\u5B66\u4E60/unityproject/New Unity Project/Assets/StreamingAssets/abres/zero/scene/testscene/lightingdata.ab"
+- "E:/\u5DE5\u4F5C\u5B66\u4E60/unityproject/New Unity Project/Assets/StreamingAssets/abres/zero/scene/testscene/lightmap-0_comp_dir.ab"
+- "E:/\u5DE5\u4F5C\u5B66\u4E60/unityproject/New Unity Project/Assets/StreamingAssets/abres/zero/scene/testscene/lightmap-0_comp_light.ab"

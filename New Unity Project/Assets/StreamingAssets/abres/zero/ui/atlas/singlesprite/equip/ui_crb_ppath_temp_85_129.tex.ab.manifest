@@ -1,0 +1,18 @@
+ManifestFileVersion: 0
+CRC: 1076368926
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 36088961c954f1bea585eec14853200e
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 4d24bf54f46935ed9e6cf78ac481bb9d
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Abres/Zero/UI/Atlas/SingleSprite/equip/UI_CRB_PPath_TEMP_85_129.tex.png
+Dependencies: []

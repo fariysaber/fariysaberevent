@@ -1,0 +1,20 @@
+ManifestFileVersion: 0
+CRC: 718110149
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 5937230feabfbade86d0fa3dff899345
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 0b04a37228feb7b9c312fb0cfbaa19c4
+HashAppended: 0
+ClassTypes:
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+Assets:
+- Assets/Abres/Zero/Scene/Materials/Energy1.mat
+Dependencies: []

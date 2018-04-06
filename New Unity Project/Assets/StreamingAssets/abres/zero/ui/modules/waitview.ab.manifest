@@ -1,0 +1,30 @@
+ManifestFileVersion: 0
+CRC: 2399501314
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: c017a4407a76818bea073d2c2f019a4d
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: c73a00752f9540d64f581dea3c084b78
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: -765806418, guid: f70555f144d8491a825f0804e09c671c, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: b97b1bf44918faa4ca287c6da0e5e867, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+- Class: 222
+  Script: {instanceID: 0}
+- Class: 224
+  Script: {instanceID: 0}
+Assets:
+- Assets/Abres/Zero/UI/Modules/waitview.prefab
+Dependencies: []

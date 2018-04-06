@@ -1,0 +1,25 @@
+ManifestFileVersion: 0
+CRC: 4151604297
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 12f8fbf0bcc1272340f989a660f2418e
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 31d6cfe0d16ae931b73c59d7e0c089c0
+HashAppended: 0
+ClassTypes: []
+Assets:
+- Assets/Abres/Zero/Scene/lianxiscene.unity
+Dependencies:
+- "E:/\u5DE5\u4F5C\u5B66\u4E60/unityproject/New Unity Project/Assets/StreamingAssets/abres/zero/scene/camera/maincamera.ab"
+- "E:/\u5DE5\u4F5C\u5B66\u4E60/unityproject/New Unity Project/Assets/StreamingAssets/abres/zero/scene/lianxiscene/lightingdata.ab"
+- "E:/\u5DE5\u4F5C\u5B66\u4E60/unityproject/New Unity Project/Assets/StreamingAssets/abres/zero/scene/lianxiscene/lightmap-0_comp_light.ab"
+- "E:/\u5DE5\u4F5C\u5B66\u4E60/unityproject/New Unity Project/Assets/StreamingAssets/abres/zero/scene/lianxiscene/lightmap-1_comp_light.ab"
+- "E:/\u5DE5\u4F5C\u5B66\u4E60/unityproject/New Unity Project/Assets/StreamingAssets/abres/zero/scene/lianxiscene/lightmap-2_comp_light.ab"
+- "E:/\u5DE5\u4F5C\u5B66\u4E60/unityproject/New Unity Project/Assets/StreamingAssets/abres/zero/scene/lianxiscene/lightmap-3_comp_light.ab"
+- "E:/\u5DE5\u4F5C\u5B66\u4E60/unityproject/New Unity Project/Assets/StreamingAssets/abres/zero/scene/lianxiscene/lightmap-4_comp_light.ab"
+- "E:/\u5DE5\u4F5C\u5B66\u4E60/unityproject/New Unity Project/Assets/StreamingAssets/abres/zero/scene/materials/boxb.ab"
+- "E:/\u5DE5\u4F5C\u5B66\u4E60/unityproject/New Unity Project/Assets/StreamingAssets/abres/zero/scene/prefab/box_a1.ab"
+- "E:/\u5DE5\u4F5C\u5B66\u4E60/unityproject/New Unity Project/Assets/StreamingAssets/abres/zero/scene/prefab/box_b2.ab"
+- "E:/\u5DE5\u4F5C\u5B66\u4E60/unityproject/New Unity Project/Assets/StreamingAssets/abres/zero/scene/sky/sky.ab"

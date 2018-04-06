@@ -1,0 +1,38 @@
+ManifestFileVersion: 0
+CRC: 1681319405
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: ad8f0c430f7d110fbe5deecbcd8082dc
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: be607a6098f1b14be6f55125dfb051a4
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 12
+  Script: {instanceID: 0}
+- Class: 15
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 26
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {instanceID: 0}
+- Class: 198
+  Script: {instanceID: 0}
+- Class: 199
+  Script: {instanceID: 0}
+Assets:
+- Assets/Abres/Zero/effect/longjuanfeng.prefab
+Dependencies: []

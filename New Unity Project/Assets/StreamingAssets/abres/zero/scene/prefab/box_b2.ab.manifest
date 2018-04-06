@@ -1,0 +1,29 @@
+ManifestFileVersion: 0
+CRC: 936310879
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: ab53d744b6b9ca8938b29770e1d43315
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 5aebbd669b69b71c6e37ab00bc730a48
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 23
+  Script: {instanceID: 0}
+- Class: 33
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 65
+  Script: {instanceID: 0}
+Assets:
+- Assets/Abres/Zero/Scene/Prefab/Box_B2.prefab
+Dependencies:
+- "E:/\u5DE5\u4F5C\u5B66\u4E60/unityproject/New Unity Project/Assets/StreamingAssets/abres/zero/scene/materials/boxb.ab"

@@ -1,0 +1,18 @@
+ManifestFileVersion: 0
+CRC: 4185316911
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: c6a5948fa4e89ea1fda9208dada89898
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 4d24bf54f46935ed9e6cf78ac481bb9d
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Abres/Zero/UI/Atlas/SingleSprite/equip/xianyu3.png
+Dependencies: []

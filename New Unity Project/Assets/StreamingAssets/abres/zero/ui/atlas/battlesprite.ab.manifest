@@ -1,0 +1,24 @@
+ManifestFileVersion: 0
+CRC: 2194458535
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 7e0398e4cec22cfc4a27a8eeb0d69e27
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 4d24bf54f46935ed9e6cf78ac481bb9d
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Abres/Zero/UI/Atlas/battlesprite/pic_redbar.png
+- Assets/Abres/Zero/UI/Atlas/battlesprite/pic_zibar.png
+- Assets/Abres/Zero/UI/Atlas/battlesprite/pic_bluebar.png
+- Assets/Abres/Zero/UI/Atlas/battlesprite/pic_yellowbar.png
+- Assets/Abres/Zero/UI/Atlas/battlesprite/pic_blackbar.png
+- Assets/Abres/Zero/UI/Atlas/battlesprite/pic_graybar.png
+- Assets/Abres/Zero/UI/Atlas/battlesprite/pic_whitebar.png
+Dependencies: []

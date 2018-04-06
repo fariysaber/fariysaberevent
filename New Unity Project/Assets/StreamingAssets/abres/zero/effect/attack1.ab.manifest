@@ -1,0 +1,34 @@
+ManifestFileVersion: 0
+CRC: 596517123
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 1f7f5c59d8b77ed56569a1c9b853a86e
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: b6f8b079669025e04c96d22363b91f79
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 11500000, guid: e64811f42d79ea04995c4a38d4686d98, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+- Class: 198
+  Script: {instanceID: 0}
+- Class: 199
+  Script: {instanceID: 0}
+Assets:
+- Assets/Abres/Zero/effect/attack1.prefab
+Dependencies: []

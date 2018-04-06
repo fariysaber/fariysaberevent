@@ -1,0 +1,16 @@
+ManifestFileVersion: 0
+CRC: 2607548695
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 9ef9f5d16c884ecb3123d3a4aae519d5
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 1033bf7ddfd4c6d43e7a6382c0a0a61a
+HashAppended: 0
+ClassTypes:
+- Class: 49
+  Script: {instanceID: 0}
+Assets:
+- Assets/Abres/Zero/XML/Config/BulletVo.xml
+Dependencies: []

@@ -1,0 +1,20 @@
+ManifestFileVersion: 0
+CRC: 1150559136
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 30c7af434c6ae5657d61ab83f1db7c7a
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 0b04a37228feb7b9c312fb0cfbaa19c4
+HashAppended: 0
+ClassTypes:
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+Assets:
+- Assets/Abres/Zero/Scene/Materials/Muzzle_glow1.mat
+Dependencies: []

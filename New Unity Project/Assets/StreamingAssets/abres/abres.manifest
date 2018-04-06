@@ -1,0 +1,787 @@
+ManifestFileVersion: 0
+CRC: 4028875680
+AssetBundleManifest:
+  AssetBundleInfos:
+    Info_0:
+      Name: zero/font/simhei.ab
+      Dependencies: {}
+    Info_1:
+      Name: zero/ui/armature/loadtyp1.ab
+      Dependencies: {}
+    Info_2:
+      Name: zero/ui/modules/battleview.ab
+      Dependencies: {}
+    Info_3:
+      Name: zero/ui/modules/bufficon.ab
+      Dependencies: {}
+    Info_4:
+      Name: zero/ui/modules/descpanel.ab
+      Dependencies:
+        Dependency_0: zero/font/simhei.ab
+        Dependency_1: zero/ui/atlas/common.ab
+    Info_5:
+      Name: zero/ui/modules/equip.ab
+      Dependencies:
+        Dependency_0: zero/font/simhei.ab
+        Dependency_1: zero/ui/atlas/common.ab
+        Dependency_2: zero/ui/atlas/singlesprite/equip/ui_crb_ppath_temp_85_129.tex.ab
+        Dependency_3: zero/ui/atlas/singlesprite/equip/wuqi001.ab
+    Info_6:
+      Name: zero/ui/modules/headpanel.ab
+      Dependencies:
+        Dependency_0: zero/ui/atlas/common.ab
+        Dependency_1: zero/ui/atlas/singlesprite/head/shiliuye.ab
+    Info_7:
+      Name: zero/ui/modules/heroicon.ab
+      Dependencies:
+        Dependency_0: zero/ui/atlas/singlesprite/equip/equipback.ab
+        Dependency_1: zero/ui/atlas/singlesprite/head/shiliuye.ab
+    Info_8:
+      Name: zero/ui/modules/heroinfopanel.ab
+      Dependencies:
+        Dependency_0: zero/font/simhei.ab
+        Dependency_1: zero/ui/atlas/common.ab
+    Info_9:
+      Name: zero/ui/modules/herozonglan.ab
+      Dependencies:
+        Dependency_0: zero/font/simhei.ab
+        Dependency_1: zero/ui/atlas/common.ab
+    Info_10:
+      Name: zero/ui/modules/loginview.ab
+      Dependencies:
+        Dependency_0: zero/font/simhei.ab
+        Dependency_1: zero/ui/atlas/common.ab
+    Info_11:
+      Name: zero/ui/modules/longdingview.ab
+      Dependencies:
+        Dependency_0: zero/font/simhei.ab
+        Dependency_1: zero/ui/atlas/singlesprite/bg/dialog1.ab
+        Dependency_2: zero/ui/atlas/singlesprite/lihui/10001.ab
+    Info_12:
+      Name: zero/ui/modules/roomview.ab
+      Dependencies:
+        Dependency_0: zero/font/simhei.ab
+        Dependency_1: zero/ui/atlas/common.ab
+        Dependency_2: zero/ui/atlas/roomsprite.ab
+        Dependency_3: zero/ui/atlas/singlesprite/bg/room1.ab
+    Info_13:
+      Name: zero/ui/modules/selectheroview.ab
+      Dependencies:
+        Dependency_0: zero/font/simhei.ab
+        Dependency_1: zero/ui/atlas/common.ab
+        Dependency_2: zero/ui/atlas/singlesprite/bg/back1.ab
+    Info_14:
+      Name: zero/ui/modules/shengxingpanel.ab
+      Dependencies:
+        Dependency_0: zero/font/simhei.ab
+        Dependency_1: zero/ui/atlas/common.ab
+    Info_15:
+      Name: zero/ui/modules/shuxinpanel.ab
+      Dependencies:
+        Dependency_0: zero/font/simhei.ab
+        Dependency_1: zero/ui/atlas/common.ab
+    Info_16:
+      Name: zero/ui/modules/skillicon.ab
+      Dependencies:
+        Dependency_0: zero/font/simhei.ab
+        Dependency_1: zero/ui/atlas/common.ab
+        Dependency_2: zero/ui/atlas/singlesprite/skill/103.ab
+        Dependency_3: zero/ui/atlas/singlesprite/skill/atk1.ab
+    Info_17:
+      Name: zero/ui/modules/sliderview.ab
+      Dependencies: {}
+    Info_18:
+      Name: zero/ui/modules/teamview.ab
+      Dependencies:
+        Dependency_0: zero/font/simhei.ab
+        Dependency_1: zero/ui/atlas/common.ab
+        Dependency_2: zero/ui/atlas/singlesprite/bg/back1.ab
+    Info_19:
+      Name: zero/ui/modules/text2.ab
+      Dependencies:
+        Dependency_0: zero/font/simhei.ab
+    Info_20:
+      Name: zero/ui/modules/waitview.ab
+      Dependencies: {}
+    Info_21:
+      Name: zero/ui/modules/zhuangbei.ab
+      Dependencies:
+        Dependency_0: zero/font/simhei.ab
+        Dependency_1: zero/ui/atlas/common.ab
+    Info_22:
+      Name: zero/ui/atlas/battlesprite.ab
+      Dependencies: {}
+    Info_23:
+      Name: zero/ui/atlas/buffsprite.ab
+      Dependencies: {}
+    Info_24:
+      Name: zero/ui/atlas/common.ab
+      Dependencies: {}
+    Info_25:
+      Name: zero/ui/atlas/numsprite.ab
+      Dependencies: {}
+    Info_26:
+      Name: zero/ui/atlas/roomsprite.ab
+      Dependencies: {}
+    Info_27:
+      Name: zero/ui/atlas/singlesprite/bg/back1.ab
+      Dependencies: {}
+    Info_28:
+      Name: zero/ui/atlas/singlesprite/bg/dialog1.ab
+      Dependencies: {}
+    Info_29:
+      Name: zero/ui/atlas/singlesprite/bg/room1.ab
+      Dependencies: {}
+    Info_30:
+      Name: zero/ui/atlas/singlesprite/bg/room2.ab
+      Dependencies: {}
+    Info_31:
+      Name: zero/ui/atlas/singlesprite/bg/room3.ab
+      Dependencies: {}
+    Info_32:
+      Name: zero/ui/atlas/singlesprite/body/shiliuye.ab
+      Dependencies: {}
+    Info_33:
+      Name: zero/ui/atlas/singlesprite/equip/baijian.ab
+      Dependencies: {}
+    Info_34:
+      Name: zero/ui/atlas/singlesprite/equip/equipback.ab
+      Dependencies: {}
+    Info_35:
+      Name: zero/ui/atlas/singlesprite/equip/ui_crb_ppath_temp_85_129.tex.ab
+      Dependencies: {}
+    Info_36:
+      Name: zero/ui/atlas/singlesprite/equip/wuqi001.ab
+      Dependencies: {}
+    Info_37:
+      Name: zero/ui/atlas/singlesprite/equip/xianyu1.ab
+      Dependencies: {}
+    Info_38:
+      Name: zero/ui/atlas/singlesprite/equip/xianyu2.ab
+      Dependencies: {}
+    Info_39:
+      Name: zero/ui/atlas/singlesprite/equip/xianyu3.ab
+      Dependencies: {}
+    Info_40:
+      Name: zero/ui/atlas/singlesprite/halfbody/shiliuye.ab
+      Dependencies: {}
+    Info_41:
+      Name: zero/ui/atlas/singlesprite/head/shiliuye.ab
+      Dependencies: {}
+    Info_42:
+      Name: zero/ui/atlas/singlesprite/lihui/10001.ab
+      Dependencies: {}
+    Info_43:
+      Name: zero/ui/atlas/singlesprite/skill/103.ab
+      Dependencies: {}
+    Info_44:
+      Name: zero/ui/atlas/singlesprite/skill/aim.ab
+      Dependencies: {}
+    Info_45:
+      Name: zero/ui/atlas/singlesprite/skill/atk1.ab
+      Dependencies: {}
+    Info_46:
+      Name: zero/ui/atlas/singlesprite/skill/get1.ab
+      Dependencies: {}
+    Info_47:
+      Name: zero/ui/atlas/singlesprite/skill/juexing1.ab
+      Dependencies: {}
+    Info_48:
+      Name: zero/xml/config/buffvo.ab
+      Dependencies: {}
+    Info_49:
+      Name: zero/xml/config/bulletvo.ab
+      Dependencies: {}
+    Info_50:
+      Name: zero/xml/config/charactorvo.ab
+      Dependencies: {}
+    Info_51:
+      Name: zero/xml/config/equipvo.ab
+      Dependencies: {}
+    Info_52:
+      Name: zero/xml/config/heroskillvo.ab
+      Dependencies: {}
+    Info_53:
+      Name: zero/xml/config/herovo.ab
+      Dependencies: {}
+    Info_54:
+      Name: zero/xml/config/itemvo.ab
+      Dependencies: {}
+    Info_55:
+      Name: zero/xml/config/languagevo.ab
+      Dependencies: {}
+    Info_56:
+      Name: zero/xml/config/levelshuxinvo.ab
+      Dependencies: {}
+    Info_57:
+      Name: zero/xml/config/skillvo.ab
+      Dependencies: {}
+    Info_58:
+      Name: zero/xml/bindata/bigbattlescene_entityinfo.ab
+      Dependencies: {}
+    Info_59:
+      Name: zero/xml/bindata/bigbattlescene_sceneinfo.ab
+      Dependencies: {}
+    Info_60:
+      Name: zero/xml/bindata/modelinfo.ab
+      Dependencies: {}
+    Info_61:
+      Name: zero/scene/bigscene/lightmap-0_comp_dir.ab
+      Dependencies: {}
+    Info_62:
+      Name: zero/scene/bigscene/lightmap-0_comp_light.ab
+      Dependencies: {}
+    Info_63:
+      Name: zero/scene/bigscene/lightmap-10_comp_dir.ab
+      Dependencies: {}
+    Info_64:
+      Name: zero/scene/bigscene/lightmap-10_comp_light.ab
+      Dependencies: {}
+    Info_65:
+      Name: zero/scene/bigscene/lightmap-11_comp_dir.ab
+      Dependencies: {}
+    Info_66:
+      Name: zero/scene/bigscene/lightmap-11_comp_light.ab
+      Dependencies: {}
+    Info_67:
+      Name: zero/scene/bigscene/lightmap-12_comp_dir.ab
+      Dependencies: {}
+    Info_68:
+      Name: zero/scene/bigscene/lightmap-12_comp_light.ab
+      Dependencies: {}
+    Info_69:
+      Name: zero/scene/bigscene/lightmap-13_comp_dir.ab
+      Dependencies: {}
+    Info_70:
+      Name: zero/scene/bigscene/lightmap-13_comp_light.ab
+      Dependencies: {}
+    Info_71:
+      Name: zero/scene/bigscene/lightmap-14_comp_dir.ab
+      Dependencies: {}
+    Info_72:
+      Name: zero/scene/bigscene/lightmap-14_comp_light.ab
+      Dependencies: {}
+    Info_73:
+      Name: zero/scene/bigscene/lightmap-15_comp_dir.ab
+      Dependencies: {}
+    Info_74:
+      Name: zero/scene/bigscene/lightmap-15_comp_light.ab
+      Dependencies: {}
+    Info_75:
+      Name: zero/scene/bigscene/lightmap-16_comp_dir.ab
+      Dependencies: {}
+    Info_76:
+      Name: zero/scene/bigscene/lightmap-16_comp_light.ab
+      Dependencies: {}
+    Info_77:
+      Name: zero/scene/bigscene/lightmap-17_comp_dir.ab
+      Dependencies: {}
+    Info_78:
+      Name: zero/scene/bigscene/lightmap-17_comp_light.ab
+      Dependencies: {}
+    Info_79:
+      Name: zero/scene/bigscene/lightmap-18_comp_dir.ab
+      Dependencies: {}
+    Info_80:
+      Name: zero/scene/bigscene/lightmap-18_comp_light.ab
+      Dependencies: {}
+    Info_81:
+      Name: zero/scene/bigscene/lightmap-19_comp_dir.ab
+      Dependencies: {}
+    Info_82:
+      Name: zero/scene/bigscene/lightmap-19_comp_light.ab
+      Dependencies: {}
+    Info_83:
+      Name: zero/scene/bigscene/lightmap-1_comp_dir.ab
+      Dependencies: {}
+    Info_84:
+      Name: zero/scene/bigscene/lightmap-1_comp_light.ab
+      Dependencies: {}
+    Info_85:
+      Name: zero/scene/bigscene/lightmap-20_comp_dir.ab
+      Dependencies: {}
+    Info_86:
+      Name: zero/scene/bigscene/lightmap-20_comp_light.ab
+      Dependencies: {}
+    Info_87:
+      Name: zero/scene/bigscene/lightmap-21_comp_dir.ab
+      Dependencies: {}
+    Info_88:
+      Name: zero/scene/bigscene/lightmap-21_comp_light.ab
+      Dependencies: {}
+    Info_89:
+      Name: zero/scene/bigscene/lightmap-22_comp_dir.ab
+      Dependencies: {}
+    Info_90:
+      Name: zero/scene/bigscene/lightmap-22_comp_light.ab
+      Dependencies: {}
+    Info_91:
+      Name: zero/scene/bigscene/lightmap-23_comp_dir.ab
+      Dependencies: {}
+    Info_92:
+      Name: zero/scene/bigscene/lightmap-23_comp_light.ab
+      Dependencies: {}
+    Info_93:
+      Name: zero/scene/bigscene/lightmap-2_comp_dir.ab
+      Dependencies: {}
+    Info_94:
+      Name: zero/scene/bigscene/lightmap-2_comp_light.ab
+      Dependencies: {}
+    Info_95:
+      Name: zero/scene/bigscene/lightmap-3_comp_dir.ab
+      Dependencies: {}
+    Info_96:
+      Name: zero/scene/bigscene/lightmap-3_comp_light.ab
+      Dependencies: {}
+    Info_97:
+      Name: zero/scene/bigscene/lightmap-4_comp_dir.ab
+      Dependencies: {}
+    Info_98:
+      Name: zero/scene/bigscene/lightmap-4_comp_light.ab
+      Dependencies: {}
+    Info_99:
+      Name: zero/scene/bigscene/lightmap-5_comp_dir.ab
+      Dependencies: {}
+    Info_100:
+      Name: zero/scene/bigscene/lightmap-5_comp_light.ab
+      Dependencies: {}
+    Info_101:
+      Name: zero/scene/bigscene/lightmap-6_comp_dir.ab
+      Dependencies: {}
+    Info_102:
+      Name: zero/scene/bigscene/lightmap-6_comp_light.ab
+      Dependencies: {}
+    Info_103:
+      Name: zero/scene/bigscene/lightmap-7_comp_dir.ab
+      Dependencies: {}
+    Info_104:
+      Name: zero/scene/bigscene/lightmap-7_comp_light.ab
+      Dependencies: {}
+    Info_105:
+      Name: zero/scene/bigscene/lightmap-8_comp_dir.ab
+      Dependencies: {}
+    Info_106:
+      Name: zero/scene/bigscene/lightmap-8_comp_light.ab
+      Dependencies: {}
+    Info_107:
+      Name: zero/scene/bigscene/lightmap-9_comp_dir.ab
+      Dependencies: {}
+    Info_108:
+      Name: zero/scene/bigscene/lightmap-9_comp_light.ab
+      Dependencies: {}
+    Info_109:
+      Name: zero/scene/bigscene/reflectionprobe-0.ab
+      Dependencies: {}
+    Info_110:
+      Name: zero/scene/camera/maincamera.ab
+      Dependencies: {}
+    Info_111:
+      Name: zero/scene/lianxiscene/lightmap-0_comp_light.ab
+      Dependencies: {}
+    Info_112:
+      Name: zero/scene/lianxiscene/lightmap-1_comp_light.ab
+      Dependencies: {}
+    Info_113:
+      Name: zero/scene/lianxiscene/lightmap-2_comp_light.ab
+      Dependencies: {}
+    Info_114:
+      Name: zero/scene/lianxiscene/lightmap-3_comp_light.ab
+      Dependencies: {}
+    Info_115:
+      Name: zero/scene/lianxiscene/lightmap-4_comp_light.ab
+      Dependencies: {}
+    Info_116:
+      Name: zero/scene/lianxiscene/reflectionprobe-0.ab
+      Dependencies: {}
+    Info_117:
+      Name: zero/scene/materials/banner.ab
+      Dependencies: {}
+    Info_118:
+      Name: zero/scene/materials/boxa.ab
+      Dependencies:
+        Dependency_0: zero/scene/textures/boxa.ab
+    Info_119:
+      Name: zero/scene/materials/boxb.ab
+      Dependencies:
+        Dependency_0: zero/scene/textures/boxb.ab
+    Info_120:
+      Name: zero/scene/materials/crystal1.ab
+      Dependencies: {}
+    Info_121:
+      Name: zero/scene/materials/energy1.ab
+      Dependencies: {}
+    Info_122:
+      Name: zero/scene/materials/fire1.ab
+      Dependencies: {}
+    Info_123:
+      Name: zero/scene/materials/glow2.ab
+      Dependencies: {}
+    Info_124:
+      Name: zero/scene/materials/glow3.ab
+      Dependencies: {}
+    Info_125:
+      Name: zero/scene/materials/glow4.ab
+      Dependencies: {}
+    Info_126:
+      Name: zero/scene/materials/ground_decals.ab
+      Dependencies: {}
+    Info_127:
+      Name: zero/scene/materials/ground_decals_add.ab
+      Dependencies: {}
+    Info_128:
+      Name: zero/scene/materials/group20489mat.ab
+      Dependencies: {}
+    Info_129:
+      Name: zero/scene/materials/lantern.ab
+      Dependencies: {}
+    Info_130:
+      Name: zero/scene/materials/lantern_glow.ab
+      Dependencies: {}
+    Info_131:
+      Name: zero/scene/materials/lightning.ab
+      Dependencies: {}
+    Info_132:
+      Name: zero/scene/materials/lightshafs.ab
+      Dependencies: {}
+    Info_133:
+      Name: zero/scene/materials/lightshafts.ab
+      Dependencies: {}
+    Info_134:
+      Name: zero/scene/materials/muzzle_fx.ab
+      Dependencies: {}
+    Info_135:
+      Name: zero/scene/materials/muzzle_glow1.ab
+      Dependencies: {}
+    Info_136:
+      Name: zero/scene/materials/props1.ab
+      Dependencies: {}
+    Info_137:
+      Name: zero/scene/materials/rocks.ab
+      Dependencies: {}
+    Info_138:
+      Name: zero/scene/materials/runes.ab
+      Dependencies: {}
+    Info_139:
+      Name: zero/scene/materials/sky1.ab
+      Dependencies: {}
+    Info_140:
+      Name: zero/scene/materials/snow flakes.ab
+      Dependencies: {}
+    Info_141:
+      Name: zero/scene/materials/spark.ab
+      Dependencies: {}
+    Info_142:
+      Name: zero/scene/materials/stone_elements.ab
+      Dependencies: {}
+    Info_143:
+      Name: zero/scene/materials/tent_stump.ab
+      Dependencies: {}
+    Info_144:
+      Name: zero/scene/materials/terrain.ab
+      Dependencies: {}
+    Info_145:
+      Name: zero/scene/materials/tiled_bacground_level.ab
+      Dependencies: {}
+    Info_146:
+      Name: zero/scene/materials/tower_base1.ab
+      Dependencies: {}
+    Info_147:
+      Name: zero/scene/materials/tower_base2.ab
+      Dependencies: {}
+    Info_148:
+      Name: zero/scene/materials/tow_cannon1.ab
+      Dependencies: {}
+    Info_149:
+      Name: zero/scene/materials/tow_crossbow.ab
+      Dependencies: {}
+    Info_150:
+      Name: zero/scene/materials/tow_crystals.ab
+      Dependencies: {}
+    Info_151:
+      Name: zero/scene/materials/tow_fire_acid.ab
+      Dependencies: {}
+    Info_152:
+      Name: zero/scene/materials/tow_gatlings.ab
+      Dependencies: {}
+    Info_153:
+      Name: zero/scene/materials/tow_gaussguns.ab
+      Dependencies: {}
+    Info_154:
+      Name: zero/scene/materials/tow_hammers.ab
+      Dependencies: {}
+    Info_155:
+      Name: zero/scene/materials/tow_laserguns.ab
+      Dependencies: {}
+    Info_156:
+      Name: zero/scene/materials/tow_machinegun.ab
+      Dependencies: {}
+    Info_157:
+      Name: zero/scene/materials/tow_mortars.ab
+      Dependencies: {}
+    Info_158:
+      Name: zero/scene/materials/tow_plasma.ab
+      Dependencies: {}
+    Info_159:
+      Name: zero/scene/materials/tow_radars.ab
+      Dependencies: {}
+    Info_160:
+      Name: zero/scene/materials/tow_rockets1.ab
+      Dependencies: {}
+    Info_161:
+      Name: zero/scene/materials/tow_rockets2.ab
+      Dependencies: {}
+    Info_162:
+      Name: zero/scene/materials/tow_tesla.ab
+      Dependencies: {}
+    Info_163:
+      Name: zero/scene/materials/tree_bark.ab
+      Dependencies: {}
+    Info_164:
+      Name: zero/scene/materials/tree_leaves.ab
+      Dependencies: {}
+    Info_165:
+      Name: zero/scene/materials/wagon.ab
+      Dependencies: {}
+    Info_166:
+      Name: zero/scene/materials/wall_sf.ab
+      Dependencies: {}
+    Info_167:
+      Name: zero/scene/materials/wall_stone.ab
+      Dependencies: {}
+    Info_168:
+      Name: zero/scene/materials/wall_wood.ab
+      Dependencies: {}
+    Info_169:
+      Name: zero/scene/materials/waterplanematerial.ab
+      Dependencies: {}
+    Info_170:
+      Name: zero/scene/materials/waterprodaytime.ab
+      Dependencies: {}
+    Info_171:
+      Name: zero/scene/materials/waterpronighttime.ab
+      Dependencies: {}
+    Info_172:
+      Name: zero/scene/prefab/box_a1.ab
+      Dependencies:
+        Dependency_0: zero/scene/materials/boxa.ab
+    Info_173:
+      Name: zero/scene/prefab/box_b2.ab
+      Dependencies:
+        Dependency_0: zero/scene/materials/boxb.ab
+    Info_174:
+      Name: zero/scene/sky/sky.ab
+      Dependencies: {}
+    Info_175:
+      Name: zero/scene/testscene/lightmap-0_comp_dir.ab
+      Dependencies: {}
+    Info_176:
+      Name: zero/scene/testscene/lightmap-0_comp_light.ab
+      Dependencies: {}
+    Info_177:
+      Name: zero/scene/testscene/reflectionprobe-0.ab
+      Dependencies: {}
+    Info_178:
+      Name: zero/scene/textures/boxa.ab
+      Dependencies: {}
+    Info_179:
+      Name: zero/scene/textures/boxb.ab
+      Dependencies: {}
+    Info_180:
+      Name: zero/scene/bigscene.ab
+      Dependencies:
+        Dependency_0: 
+        Dependency_1: zero/scene/bigscene/lightmap-0_comp_dir.ab
+        Dependency_2: zero/scene/bigscene/lightmap-0_comp_light.ab
+        Dependency_3: zero/scene/bigscene/lightmap-10_comp_dir.ab
+        Dependency_4: zero/scene/bigscene/lightmap-10_comp_light.ab
+        Dependency_5: zero/scene/bigscene/lightmap-11_comp_dir.ab
+        Dependency_6: zero/scene/bigscene/lightmap-11_comp_light.ab
+        Dependency_7: zero/scene/bigscene/lightmap-12_comp_dir.ab
+        Dependency_8: zero/scene/bigscene/lightmap-12_comp_light.ab
+        Dependency_9: zero/scene/bigscene/lightmap-13_comp_dir.ab
+        Dependency_10: zero/scene/bigscene/lightmap-13_comp_light.ab
+        Dependency_11: zero/scene/bigscene/lightmap-14_comp_dir.ab
+        Dependency_12: zero/scene/bigscene/lightmap-14_comp_light.ab
+        Dependency_13: zero/scene/bigscene/lightmap-15_comp_dir.ab
+        Dependency_14: zero/scene/bigscene/lightmap-15_comp_light.ab
+        Dependency_15: zero/scene/bigscene/lightmap-16_comp_dir.ab
+        Dependency_16: zero/scene/bigscene/lightmap-16_comp_light.ab
+        Dependency_17: zero/scene/bigscene/lightmap-17_comp_dir.ab
+        Dependency_18: zero/scene/bigscene/lightmap-17_comp_light.ab
+        Dependency_19: zero/scene/bigscene/lightmap-18_comp_dir.ab
+        Dependency_20: zero/scene/bigscene/lightmap-18_comp_light.ab
+        Dependency_21: zero/scene/bigscene/lightmap-19_comp_dir.ab
+        Dependency_22: zero/scene/bigscene/lightmap-19_comp_light.ab
+        Dependency_23: zero/scene/bigscene/lightmap-1_comp_dir.ab
+        Dependency_24: zero/scene/bigscene/lightmap-1_comp_light.ab
+        Dependency_25: zero/scene/bigscene/lightmap-20_comp_dir.ab
+        Dependency_26: zero/scene/bigscene/lightmap-20_comp_light.ab
+        Dependency_27: zero/scene/bigscene/lightmap-21_comp_dir.ab
+        Dependency_28: zero/scene/bigscene/lightmap-21_comp_light.ab
+        Dependency_29: zero/scene/bigscene/lightmap-22_comp_dir.ab
+        Dependency_30: zero/scene/bigscene/lightmap-22_comp_light.ab
+        Dependency_31: zero/scene/bigscene/lightmap-23_comp_dir.ab
+        Dependency_32: zero/scene/bigscene/lightmap-23_comp_light.ab
+        Dependency_33: zero/scene/bigscene/lightmap-2_comp_dir.ab
+        Dependency_34: zero/scene/bigscene/lightmap-2_comp_light.ab
+        Dependency_35: zero/scene/bigscene/lightmap-3_comp_dir.ab
+        Dependency_36: zero/scene/bigscene/lightmap-3_comp_light.ab
+        Dependency_37: zero/scene/bigscene/lightmap-4_comp_dir.ab
+        Dependency_38: zero/scene/bigscene/lightmap-4_comp_light.ab
+        Dependency_39: zero/scene/bigscene/lightmap-5_comp_dir.ab
+        Dependency_40: zero/scene/bigscene/lightmap-5_comp_light.ab
+        Dependency_41: zero/scene/bigscene/lightmap-6_comp_dir.ab
+        Dependency_42: zero/scene/bigscene/lightmap-6_comp_light.ab
+        Dependency_43: zero/scene/bigscene/lightmap-7_comp_dir.ab
+        Dependency_44: zero/scene/bigscene/lightmap-7_comp_light.ab
+        Dependency_45: zero/scene/bigscene/lightmap-8_comp_dir.ab
+        Dependency_46: zero/scene/bigscene/lightmap-8_comp_light.ab
+        Dependency_47: zero/scene/bigscene/lightmap-9_comp_dir.ab
+        Dependency_48: zero/scene/bigscene/lightmap-9_comp_light.ab
+        Dependency_49: zero/scene/camera/maincamera.ab
+        Dependency_50: zero/scene/materials/banner.ab
+        Dependency_51: zero/scene/materials/crystal1.ab
+        Dependency_52: zero/scene/materials/fire1.ab
+        Dependency_53: zero/scene/materials/glow2.ab
+        Dependency_54: zero/scene/materials/ground_decals.ab
+        Dependency_55: zero/scene/materials/lantern.ab
+        Dependency_56: zero/scene/materials/lantern_glow.ab
+        Dependency_57: zero/scene/materials/lightshafs.ab
+        Dependency_58: zero/scene/materials/lightshafts.ab
+        Dependency_59: zero/scene/materials/props1.ab
+        Dependency_60: zero/scene/materials/rocks.ab
+        Dependency_61: zero/scene/materials/runes.ab
+        Dependency_62: zero/scene/materials/sky1.ab
+        Dependency_63: zero/scene/materials/spark.ab
+        Dependency_64: zero/scene/materials/stone_elements.ab
+        Dependency_65: zero/scene/materials/tent_stump.ab
+        Dependency_66: zero/scene/materials/terrain.ab
+        Dependency_67: zero/scene/materials/tower_base1.ab
+        Dependency_68: zero/scene/materials/tree_bark.ab
+        Dependency_69: zero/scene/materials/wagon.ab
+        Dependency_70: zero/scene/materials/wall_stone.ab
+        Dependency_71: zero/scene/materials/wall_wood.ab
+        Dependency_72: zero/scene/materials/waterpronighttime.ab
+    Info_181:
+      Name: zero/scene/lianxiscene.ab
+      Dependencies:
+        Dependency_0: zero/scene/camera/maincamera.ab
+        Dependency_1: 
+        Dependency_2: zero/scene/lianxiscene/lightmap-0_comp_light.ab
+        Dependency_3: zero/scene/lianxiscene/lightmap-1_comp_light.ab
+        Dependency_4: zero/scene/lianxiscene/lightmap-2_comp_light.ab
+        Dependency_5: zero/scene/lianxiscene/lightmap-3_comp_light.ab
+        Dependency_6: zero/scene/lianxiscene/lightmap-4_comp_light.ab
+        Dependency_7: zero/scene/materials/boxb.ab
+        Dependency_8: zero/scene/prefab/box_a1.ab
+        Dependency_9: zero/scene/prefab/box_b2.ab
+        Dependency_10: zero/scene/sky/sky.ab
+    Info_182:
+      Name: zero/scene/loginscene.ab
+      Dependencies: {}
+    Info_183:
+      Name: zero/scene/roomscene.ab
+      Dependencies: {}
+    Info_184:
+      Name: zero/scene/selectheroscene.ab
+      Dependencies: {}
+    Info_185:
+      Name: zero/scene/testscene.ab
+      Dependencies:
+        Dependency_0: zero/scene/materials/lantern.ab
+        Dependency_1: 
+        Dependency_2: zero/scene/testscene/lightmap-0_comp_dir.ab
+        Dependency_3: zero/scene/testscene/lightmap-0_comp_light.ab
+    Info_186:
+      Name: zero/model/santoulang.ab
+      Dependencies: {}
+    Info_187:
+      Name: zero/model/shiliuye.ab
+      Dependencies: {}
+    Info_188:
+      Name: zero/model/shiliuye_bikini.ab
+      Dependencies: {}
+    Info_189:
+      Name: zero/model/shiliuye_student_1.ab
+      Dependencies: {}
+    Info_190:
+      Name: zero/model/shiliuye_student_2.ab
+      Dependencies: {}
+    Info_191:
+      Name: zero/equip/baijian.ab
+      Dependencies: {}
+    Info_192:
+      Name: zero/equip/ea.ab
+      Dependencies: {}
+    Info_193:
+      Name: zero/equip/excalibur.ab
+      Dependencies: {}
+    Info_194:
+      Name: zero/equip/jiuzijiandingyi.ab
+      Dependencies: {}
+    Info_195:
+      Name: zero/equip/mimiqie.ab
+      Dependencies: {}
+    Info_196:
+      Name: zero/equip/yaodaocunzheng.ab
+      Dependencies: {}
+    Info_197:
+      Name: zero/equip/yuanchuzhihuo.ab
+      Dependencies: {}
+    Info_198:
+      Name: zero/equip/zhidianzhena.ab
+      Dependencies: {}
+    Info_199:
+      Name: zero/equip/zhuanzhe.ab
+      Dependencies: {}
+    Info_200:
+      Name: zero/effect/attack1.ab
+      Dependencies: {}
+    Info_201:
+      Name: zero/effect/bingdong.ab
+      Dependencies: {}
+    Info_202:
+      Name: zero/effect/boom2.ab
+      Dependencies: {}
+    Info_203:
+      Name: zero/effect/bufatk1.ab
+      Dependencies: {}
+    Info_204:
+      Name: zero/effect/chongjibo.ab
+      Dependencies: {}
+    Info_205:
+      Name: zero/effect/eafengbao.ab
+      Dependencies: {}
+    Info_206:
+      Name: zero/effect/empty.ab
+      Dependencies: {}
+    Info_207:
+      Name: zero/effect/getatk1.ab
+      Dependencies: {}
+    Info_208:
+      Name: zero/effect/guangquan1.ab
+      Dependencies: {}
+    Info_209:
+      Name: zero/effect/hit1.ab
+      Dependencies: {}
+    Info_210:
+      Name: zero/effect/hit2.ab
+      Dependencies: {}
+    Info_211:
+      Name: zero/effect/huoyanpenshe.ab
+      Dependencies: {}
+    Info_212:
+      Name: zero/effect/huoyanxuanwo.ab
+      Dependencies: {}
+    Info_213:
+      Name: zero/effect/lianzhao1.ab
+      Dependencies: {}
+    Info_214:
+      Name: zero/effect/zhuoshao.ab
+      Dependencies: {}
+    Info_215:
+      Name: zero/effect/zuzhou.ab
+      Dependencies: {}
+    Info_216:
+      Name: zero/ainode/ai1001.ab
+      Dependencies: {}

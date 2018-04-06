@@ -1,0 +1,28 @@
+ManifestFileVersion: 0
+CRC: 207662702
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: d6341690d39587e92c441c1f1a37132f
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 6ab6220188aeb1ae427f50d10b9a0f70
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: -765806418, guid: f70555f144d8491a825f0804e09c671c, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+- Class: 222
+  Script: {instanceID: 0}
+- Class: 224
+  Script: {instanceID: 0}
+Assets:
+- Assets/Abres/Zero/UI/Modules/headpanel.prefab
+Dependencies:
+- "E:/\u5DE5\u4F5C\u5B66\u4E60/unityproject/New Unity Project/Assets/StreamingAssets/abres/zero/ui/atlas/common.ab"
+- "E:/\u5DE5\u4F5C\u5B66\u4E60/unityproject/New Unity Project/Assets/StreamingAssets/abres/zero/ui/atlas/singlesprite/head/shiliuye.ab"

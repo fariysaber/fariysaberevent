@@ -1,0 +1,38 @@
+ManifestFileVersion: 0
+CRC: 1986747616
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 65ea3aedd6da4dbd021aaf1a8263e149
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: a019d64ad3e8e487ab8fc148387b444b
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 11500000, guid: e64811f42d79ea04995c4a38d4686d98, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 48bb4366398474d4e82e1e857134a209, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: b5fed49e89ec58e429adb4bfd6225397, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+- Class: 198
+  Script: {instanceID: 0}
+- Class: 199
+  Script: {instanceID: 0}
+Assets:
+- Assets/Abres/Zero/effect/bufatk1.prefab
+Dependencies: []

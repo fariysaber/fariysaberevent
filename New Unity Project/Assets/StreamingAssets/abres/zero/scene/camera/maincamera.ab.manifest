@@ -1,0 +1,50 @@
+ManifestFileVersion: 0
+CRC: 1985469061
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 696ab8346292fcec04169b4b99acad9e
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 4cfcd8f836e03c881c72ee3420bb9f9b
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 20
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 81
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 11500000, guid: 76b5ec6153a1d55438228df10fe66844, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: dd6d4281e5d7cd44d8c6e38bc2c1b8d8, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 1fd999d1b2cf94a45a5b0a47ce074bef, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 646b5bc27a658f447b1d929fd5ffbd70, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 7fceaeb339b971b429c4cc600acabd13, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 75febd242c999f04d9654522a10c006b, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: bd70d448b18cfbc46af26466f752332c, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: b0923359e9e352a4b9b11c7b7161ad67, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 730475ee64f9a894bbac0d9e6f22e813, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: e50e925fb93c78246bf995d9dc3a2330, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+- Class: 124
+  Script: {instanceID: 0}
+Assets:
+- Assets/Abres/Zero/Scene/camera/MainCamera.prefab
+Dependencies: []

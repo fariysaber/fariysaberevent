@@ -1,0 +1,20 @@
+ManifestFileVersion: 0
+CRC: 2436923705
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 4bddf312ba0dedeef5ab67f6619af04f
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 0b04a37228feb7b9c312fb0cfbaa19c4
+HashAppended: 0
+ClassTypes:
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+Assets:
+- Assets/Abres/Zero/Scene/Materials/Lantern_glow.mat
+Dependencies: []

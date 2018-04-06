@@ -1,0 +1,18 @@
+ManifestFileVersion: 0
+CRC: 2717125589
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 24812f22a0e0969ae574cf246a5a90c2
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 4d24bf54f46935ed9e6cf78ac481bb9d
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Abres/Zero/UI/Atlas/SingleSprite/bg/dialog1.png
+Dependencies: []

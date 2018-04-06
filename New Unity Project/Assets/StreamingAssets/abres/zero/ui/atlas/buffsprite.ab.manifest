@@ -1,0 +1,34 @@
+ManifestFileVersion: 0
+CRC: 22014827
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 752a3f8a714bc01621026fa251720737
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 4d24bf54f46935ed9e6cf78ac481bb9d
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Abres/Zero/UI/Atlas/buffSprite/zuzhou1.png
+- Assets/Abres/Zero/UI/Atlas/buffSprite/bingdong1.png
+- Assets/Abres/Zero/UI/Atlas/buffSprite/excalibur.png
+- Assets/Abres/Zero/UI/Atlas/buffSprite/duoduan.png
+- Assets/Abres/Zero/UI/Atlas/buffSprite/equatk1.png
+- Assets/Abres/Zero/UI/Atlas/buffSprite/equbaoji1.png
+- Assets/Abres/Zero/UI/Atlas/buffSprite/erdaoliu.png
+- Assets/Abres/Zero/UI/Atlas/buffSprite/zhuoshao1.png
+- Assets/Abres/Zero/UI/Atlas/buffSprite/yanzhizhuoshao.png
+- Assets/Abres/Zero/UI/Atlas/buffSprite/huoyanxuanwo.png
+- Assets/Abres/Zero/UI/Atlas/buffSprite/equbaoshang1.png
+- Assets/Abres/Zero/UI/Atlas/buffSprite/jisha.png
+- Assets/Abres/Zero/UI/Atlas/buffSprite/atk1.png
+- Assets/Abres/Zero/UI/Atlas/buffSprite/yaodaoliuguang.png
+- Assets/Abres/Zero/UI/Atlas/buffSprite/equchuantou1.png
+- Assets/Abres/Zero/UI/Atlas/buffSprite/bingfeng.png
+- Assets/Abres/Zero/UI/Atlas/buffSprite/eafengbao.png
+Dependencies: []

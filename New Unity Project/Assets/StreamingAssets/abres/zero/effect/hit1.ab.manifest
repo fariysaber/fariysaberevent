@@ -1,0 +1,32 @@
+ManifestFileVersion: 0
+CRC: 3598976128
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 36f4d4821a409c7270252ea908be9ca1
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: f184f2d2d7ac76107d739dc1c50e4fac
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 11500000, guid: e64811f42d79ea04995c4a38d4686d98, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+- Class: 198
+  Script: {instanceID: 0}
+- Class: 199
+  Script: {instanceID: 0}
+Assets:
+- Assets/Abres/Zero/effect/hit1.prefab
+Dependencies: []

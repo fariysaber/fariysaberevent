@@ -1,0 +1,16 @@
+ManifestFileVersion: 0
+CRC: 140170561
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: dc20823c58239000644f68d72781b79c
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: c1642440719609290a7e09a50a7286f4
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+Assets:
+- Assets/Abres/Zero/Scene/lianxiscene/Lightmap-1_comp_light.exr
+Dependencies: []
